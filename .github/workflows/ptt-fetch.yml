@@ -1,0 +1,37 @@
+name: PTT Fetch
+
+on:
+  schedule:
+    # cron 是 UTC 時間，台灣是 UTC+8
+    # 這裡設定 UTC 00:30 = 台灣時間 08:30，讓它在 09:00 Routine 執行前跑完
+    - cron: '30 0 * * *'
+  workflow_dispatch:  # 允許在 GitHub 網頁上手動點按鈕觸發，方便測試
+
+jobs:
+  fetch-ptt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4
+        # 不需要 curl_cffi，script 改用 subprocess 呼叫系統內建 curl
+        # ubuntu-latest runner 預裝 curl，不用額外安裝
+
+      - name: Run PTT fetch script
+        run: python ptt_fetch.py
+
+      - name: Commit and push result
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ptt_data/
+          git diff --staged --quiet || git commit -m "Update PTT data $(date +'%Y-%m-%d %H:%M')"
+          git push
