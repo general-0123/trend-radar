@@ -1,0 +1,35 @@
+name: YouTube TW Trending Fetch
+
+on:
+  schedule:
+    # 每天 08:30 台北時間 (UTC+8) = 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}  # 允許手動觸發，方便測試
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-youtube-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch YouTube TW trending
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python3 youtube_fetch.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add youtube_data/trending.json
+          git diff --staged --quiet || git commit -m "chore: update YouTube TW trending data [automated]"
+          git push
