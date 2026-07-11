@@ -1,2 +1,2 @@
 # trend-radar
-測試每日回報gmail用
+測試用demo版
