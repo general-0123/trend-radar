@@ -1,139 +1,146 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03 04:51:19",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04 04:53:57",
   "articles": [
     {
       "board": "Gossiping",
-      "title": "[新聞] 影／鄭麗文陪徐欣瑩登記參選 一度口誤喊",
-      "url": "https://www.ptt.cc/bbs/Gossiping/M.1788410064.A.8C7.html",
-      "author": "jal809",
+      "title": "Re: [問卦] 大家說說為什麼不捐血了?",
+      "url": "https://www.ptt.cc/bbs/Gossiping/M.1788496295.A.BCB.html",
+      "author": "kuijun228",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 22,
-          "comment_count": 24,
-          "push_n": 15,
+          "time": "04:53",
+          "push_count": 27,
+          "comment_count": 29,
+          "push_n": 25,
           "boo_n": 0
         }
       ],
       "push_count_growth": 0,
-      "latest_push_count": 22,
+      "latest_push_count": 27,
       "top_comments": [
         {
           "type": "推",
+          "user": "tyke123",
+          "content": "推"
+        },
+        {
+          "type": "推",
+          "user": "mikehu",
+          "content": "$"
+        },
+        {
+          "type": "推",
+          "user": "Gpai",
+          "content": "錢"
+        },
+        {
+          "type": "推",
+          "user": "wertes",
+          "content": "錢"
+        },
+        {
+          "type": "推",
+          "user": "jackhg",
+          "content": "以前也捐了好幾年血小板 推"
+        },
+        {
+          "type": "推",
+          "user": "qscxz",
+          "content": "$$"
+        },
+        {
+          "type": "推",
+          "user": "loenkeynes",
+          "content": "推"
+        },
+        {
+          "type": "推",
+          "user": "xx60824xx",
+          "content": "推"
+        },
+        {
+          "type": "推",
+          "user": "onepiece2041",
+          "content": "好"
+        },
+        {
+          "type": "推",
+          "user": "lask2g",
+          "content": "推"
+        },
+        {
+          "type": "推",
+          "user": "NNBOY",
+          "content": "我也捐好久了 當做促進新陳代謝吧"
+        },
+        {
+          "type": "推",
+          "user": "suki0628",
+          "content": "推，改天來去捐血"
+        },
+        {
+          "type": "推",
+          "user": "Elmore",
+          "content": "$"
+        },
+        {
+          "type": "推",
           "user": "love0504",
-          "content": "樂芙跟五樓對決 輸了要被那個"
+          "content": "錢"
         },
         {
           "type": "推",
-          "user": "moto000",
-          "content": "白的先承認92共識吧"
+          "user": "F91",
+          "content": "好"
         },
         {
           "type": "推",
-          "user": "tmgl",
-          "content": "不小心真心話"
+          "user": "chenstopy",
+          "content": "加油"
         },
         {
           "type": "推",
-          "user": "qbb741000",
-          "content": "人第一次說出口的話往往最真實"
+          "user": "acs81046",
+          "content": "錢"
         },
         {
           "type": "推",
-          "user": "adway",
-          "content": "賴清德笑而不語"
+          "user": "p1227426",
+          "content": "平日也要預約"
         },
         {
           "type": "推",
-          "user": "hate56",
-          "content": "哈哈 說出真心話了吧"
+          "user": "billy791122",
+          "content": "ok"
         },
         {
           "type": "推",
-          "user": "Dragonz",
-          "content": "資深民進黨內鬼講出真心話了"
-        },
-        {
-          "type": "推",
-          "user": "kmkr122719",
-          "content": "校長:不行，現在還不能笑，我要忍住"
-        },
-        {
-          "type": "推",
-          "user": "takeda3234",
-          "content": "真心話"
-        },
-        {
-          "type": "推",
-          "user": "Forcast",
-          "content": "擊潰"
-        },
-        {
-          "type": "推",
-          "user": "firose",
-          "content": "敗選雙人照"
-        },
-        {
-          "type": "推",
-          "user": "KEYSOLIDER",
-          "content": "擊潰民眾黨"
-        },
-        {
-          "type": "推",
-          "user": "kmkr122719",
-          "content": "KMT總是會在大順風時自爆,這是祖傳的"
-        },
-        {
-          "type": "推",
-          "user": "cosplay314",
-          "content": "Ok"
-        },
-        {
-          "type": "推",
-          "user": "Weylulu",
-          "content": "真心話說出來了"
-        },
-        {
-          "type": "→",
-          "user": "moto000",
-          "content": "92共識小草"
-        },
-        {
-          "type": "→",
-          "user": "nikewang",
-          "content": "這才是鄭麗文的真心話"
-        },
-        {
-          "type": "→",
-          "user": "willism",
-          "content": "擊潰丁守中.jpg"
-        },
-        {
-          "type": "→",
-          "user": "chenu",
-          "content": "恭喜賴神 2028先滅民眾黨再滅國民黨"
-        },
-        {
-          "type": "→",
-          "user": "Dragonz",
-          "content": "搞垮民眾黨接下來是弄垮國民黨"
+          "user": "CalmEarth",
+          "content": "推"
         }
       ],
-      "content": "聯合\n\n影／鄭麗文陪徐欣瑩登記參選 一度口誤喊「藍白對決」\n\n2026-09-03 12:29 攝影中心／ 記者許正宏／新竹即時報導\n\n國民黨主席鄭麗文今天南下新竹，陪同新竹縣長參選人徐欣瑩、竹北市長參選人吳旭智前往\n選委會登記參選，沒想到狀況不斷，鄭麗文致詞時口誤高喊「藍白對決」，台上助選團面面\n相覷，被台下民眾高聲糾正後才改口團結，隨後邀請到前縣長范振宗致詞，然而范振宗卻突\n然當著鄭麗文的面表示：「藍白不合，戰略錯誤，你喊破喉嚨也沒票」、「如果新竹縣選不\n好，妳責無旁貸，唯妳是問，最大戰犯就是妳」。\n\n竹北市長選戰藍白合作破局，國民黨竹北市長參選人吳旭智、民眾黨竹北市長參選人邱臣遠\n皆前往登記參選；今天國民黨主席鄭麗文親赴新竹，陪同徐欣瑩、吳旭智前往選委會登記，\n登記完成後鄭麗文發表演說，表示要放下過去的恩怨，因為選戰正式進入「藍白對決」。講\n完後遭台下民眾糾正，她則改口喊「講錯了，大家很緊張」、「藍白合作、藍綠對決」，藍\n白一定要合作，在野一定要大團結，要團結每一個力量、團結每一份正義、公理、善意、善\n良的力量、結合愛台灣和中華民國的力量。\n\nhttps://reurl.cc/XxAEpR\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 27.51.153.62 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Gossiping/M.1788410064.A.8C7.html"
+      "content": "※ 引述《tmac012004 (焰靈)》之銘言：\n: 最近又鬧血荒了\n: 捐血站的醫檢師好像很著急\n: 找不到足夠的人捐血\n: 大家還在等好的贈品嗎?\n: 還是捐血免費 買血很貴?\n: -----\n: Sent from JPTT on my Xiaomi 23073RPBFG.\nhttps://i.imgur.com/BACIy6W.jpeg\n\n阿肥今天剛捐血小版啦\n\n這種分離術的超難在假日排，都要先預約\n\n但太久沒在捐全血了\n\n買血的問題我覺得公開講一定是有證據的\n\n但不要抹成捐的=賣的\n\n大家都4熱心公益\n\n大概4醬\n\n以下推文每堆50p 發爆\n-----\nSent from JPTT on my iPhone\n\n--\nhttps://i.imgur.com/GEfOO6a.jpg\nhttps://i.imgur.com/5ihk7kH.jpg\nhttps://i.imgur.com/6thyFnW.jpg\nhttps://i.imgur.com/WPozl6L.jpg\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.215.60.206 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Gossiping/M.1788496295.A.BCB.html"
     },
     {
       "board": "Stock",
-      "title": "[新聞] AI token跌破1美元創新低",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788339364.A.548.html",
-      "author": "adamcha",
+      "title": "[閒聊] 2026/09/04 盤中閒聊",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788481803.A.008.html",
+      "author": "laptic",
       "snapshots": [
         {
-          "time": "04:51",
+          "time": "04:53",
           "push_count": 100,
-          "comment_count": 282,
-          "push_n": 138,
-          "boo_n": 9
+          "comment_count": 1488,
+          "push_n": 993,
+          "boo_n": 112
+        },
+        {
+          "time": "04:53",
+          "push_count": 100,
+          "comment_count": 1488,
+          "push_n": 993,
+          "boo_n": 112
         }
       ],
       "push_count_growth": 0,
@@ -141,706 +148,826 @@
       "top_comments": [
         {
           "type": "推",
-          "user": "AndyMAX",
-          "content": "蒜粒小隊解散 overbooking！"
+          "user": "ruwjo12",
+          "content": "大家早安！"
         },
         {
           "type": "推",
-          "user": "storyo11413",
-          "content": "AI is over"
+          "user": "davie11333",
+          "content": "早安大爆崩"
         },
         {
           "type": "推",
-          "user": "ccdrv",
-          "content": "這樣燒的錢 賺的回來嗎"
-        },
-        {
-          "type": "推",
-          "user": "arnold3",
-          "content": "泡沫吹那麼高 結果沒人買"
-        },
-        {
-          "type": "推",
-          "user": "dk611216",
-          "content": "硬體的成本賺不回來"
-        },
-        {
-          "type": "推",
-          "user": "dannpptt",
-          "content": "白菜不值錢，鏟子呢"
-        },
-        {
-          "type": "推",
-          "user": "hsiang0619",
-          "content": "崩"
-        },
-        {
-          "type": "推",
-          "user": "hihi29",
-          "content": "老蘇都有提醒 老蘇真的看的比較遠"
-        },
-        {
-          "type": "推",
-          "user": "grtfor",
-          "content": "然後硬體繼續漲，誰要付"
-        },
-        {
-          "type": "推",
-          "user": "ccdrv",
-          "content": "鏟子怎麼便宜賣   原料貴森森的"
-        },
-        {
-          "type": "推",
-          "user": "Like5566Like",
-          "content": "真鬼故事"
-        },
-        {
-          "type": "推",
-          "user": "asked",
-          "content": "算力過剩 泡泡要破了"
-        },
-        {
-          "type": "推",
-          "user": "asws0808",
-          "content": "泡沫"
-        },
-        {
-          "type": "推",
-          "user": "puritylife",
-          "content": "變便宜 更多人用 算力更不夠 成本堆更高 更賺不回來"
-        },
-        {
-          "type": "推",
-          "user": "bbboy",
-          "content": "科技產品就是這樣，電腦剛普及時也很貴，隨時間成"
-        },
-        {
-          "type": "推",
-          "user": "justice0926",
-          "content": "好事吧 變便宜—>用戶更多 噴"
-        },
-        {
-          "type": "推",
-          "user": "asked",
-          "content": "真實需求是絕對比不上估值 現在估值太高 一定會破"
-        },
-        {
-          "type": "推",
-          "user": "saske31429",
-          "content": "有種硬體就繼續漲"
-        },
-        {
-          "type": "推",
-          "user": "puritylife",
-          "content": "削價競爭 那硬體需求會繼續往上衝吧"
-        },
-        {
-          "type": "推",
-          "user": "ccdrv",
-          "content": "果然中國在玩的產業 最後都會卷下去"
-        }
-      ],
-      "content": "原文標題： AI token跌破1美元創新低 OpenAI、Anthropic商業模式面臨壓力  \n\n原文連結： https://news.cnyes.com/news/id/6594659\n發布時間： 2026-09-02 08:30 \n\n記者署名： 鉅亨網編譯陳又嘉 \n\n原文內容：\n\n《Quartz》報導，AI token價格一項廣受市場關注的基準指標，周一首次跌破每百萬\ntoken 1美元，來到分析師認為將對頂尖AI公司的商業模式帶來實質壓力的關鍵價位。\n\n大型語言模型Token支出指數(LLM Token Expenditure Index)是Silicon Data推出的核心\n指標，用於衡量每日token價格，在彭博代號為SDLLMTK。根據CNBC報導，該指數周一跌至\n每百萬token 97美分，不僅創下該指數去年底推出以來最低，也不到今年夏季早些時候創\n下高點的一半。\n\nSilicon Data的指數是根據使用量加權計算，在特定模型範圍內衡量每百萬個大型語言模\n型token的實際價格，並結合供應商定價與多家AI路由平台觀察到的實際使用量計算。截\n至周一，該指數過去7天已下降8.6%。\n\nCNBC指出，多項因素正推動該指數走低。低成本的中國開源模型崛起，例如Moonshot推出\n的Kimi K3，已拉低市場價格，而OpenAI也在7月底調降兩款GPT-5.6模型的價格。其他先\n進AI模型公司也推出動態定價機制，讓存取價格隨需求變化，進一步帶來下行壓力。\n\ntoken生成成本下降，也是推動該指數走低的因素之一。\n\ntoken價格下跌對頂尖模型公司帶來的壓力尤其明顯。Syz Group投資長Charles-Henry\nMonchau周二發文表示，「基礎模型實驗室受到的直接衝擊最大。token價格通縮會壓縮營\n收，但運算資源的承諾成本卻維持固定。」 \n\nMonchau補充，AI模型公司的競爭策略已經出現變化。隨著開放權重模型在模型效能上的\n差距已縮小至僅剩幾個月，業者正將重心從單純追求模型效能，轉向發展分發能力、記憶\n體與上下文處理能力等優勢。\n\nSilicon Data研究主管Steve Hou表示，token價格下跌可能意味著，目前先進模型 \n與低成本模型的供給，已足以應付大多數任務的需求。 \n\n在這個敏感時間，token價格下跌可能為OpenAI與Anthropic等AI領導企業帶來新的阻力。\n兩家公司今年夏季均已向監管機構提交IPO申請。 token價格下降可能讓消費者逐漸形成「\nAI服務應該更便宜」的預期，長期下來可能削弱AI服務供應商的定價能力。\n\n心得/評論：\n\nAnthropic 上市前鬼故事不斷, 感覺在實體AI普遍應用之前,\nAI公司的估值似乎有機會泡沫...\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.128.97.223 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788339364.A.548.html"
-    },
-    {
-      "board": "Stock",
-      "title": "[新聞] 美商務部長證實將加徵半導體關稅 透露台灣",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788355165.A.9DA.html",
-      "author": "DrowningPool",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 99,
-          "comment_count": 298,
-          "push_n": 186,
-          "boo_n": 21
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 99,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "tomdavis",
-          "content": "又是魯蛇尼克在搞"
-        },
-        {
-          "type": "推",
-          "user": "firelemon",
-          "content": "要噴了嗎"
-        },
-        {
-          "type": "推",
-          "user": "randystock",
-          "content": "大積積都加碼了，不會課到台灣了"
-        },
-        {
-          "type": "推",
-          "user": "neomaster",
-          "content": "通膨要噴了"
-        },
-        {
-          "type": "推",
-          "user": "aandy15",
-          "content": "會噴吧 台積有在美設廠阿"
-        },
-        {
-          "type": "推",
-          "user": "jokem",
-          "content": "蛤？"
-        },
-        {
-          "type": "推",
-          "user": "neil0611",
-          "content": "我知道你還有錢"
-        },
-        {
-          "type": "推",
-          "user": "st9061204",
-          "content": "賺了這麼多錢，都拿來投資偉大的美國吧"
-        },
-        {
-          "type": "推",
-          "user": "OhMyGoose",
-          "content": "難怪GG大跌"
-        },
-        {
-          "type": "推",
-          "user": "s155260",
-          "content": "主委又加碼了"
-        },
-        {
-          "type": "推",
-          "user": "Dirgo",
-          "content": "GG又要承擔一切了QQ"
-        },
-        {
-          "type": "推",
-          "user": "fourkg",
-          "content": "台積又扛"
-        },
-        {
-          "type": "推",
-          "user": "house911",
-          "content": "蛤 ??"
-        },
-        {
-          "type": "推",
-          "user": "q34355997",
-          "content": "無限加碼 cc 跟美國做生意就是當奴隸"
-        },
-        {
-          "type": "推",
-          "user": "yoshiki78529",
-          "content": "空你基蛙"
-        },
-        {
-          "type": "推",
-          "user": "a0808996",
-          "content": "台積電的錢都是大風括來的嗎 千億美元說有就有"
-        },
-        {
-          "type": "推",
-          "user": "Wildsheep",
-          "content": "主委幫你加碼 還不謝謝川爸"
-        },
-        {
-          "type": "推",
-          "user": "longlongyi",
-          "content": "關稅又來了= =大爆崩"
-        },
-        {
-          "type": "推",
-          "user": "yan2626",
-          "content": "民主國家又又又要錢了"
-        },
-        {
-          "type": "推",
-          "user": "funkD",
-          "content": "無限關稅 無限加碼"
-        }
-      ],
-      "content": "原文標題： 請勿刪減或自創標題，違者4-1處分，此行請刪除\n美商務部長證實將加徵半導體關稅　透露台灣下周將再宣布上看9500億投資\n原文連結： 網址超過一行，請用縮網址，連結不能點擊者板規 1-2-2 處分。\nhttps://www.knews.com.tw/news/A888BCC1C5C6E4F24602A3018C3592B8\n發布時間： 請勿張貼超過3天新聞\n2026-9-2\n記者署名：\n林文彬\n原文內容：\n\n美國商務部長盧特尼克（Howard Lutnick）周三（2日）表示，白宮準備開徵新一輪進口\n半導體關稅，證實美國媒體Politico上周報導。盧特尼克並透露，台灣下周將再宣布上看\n300億美元（9518億台幣）的投資承諾。\n\n20國集團（G20）在美國北卡羅萊納州教堂山（Chapel Hill）舉行的創新部長級會議周三\n進入第2天，這場會議由盧特尼克和白宮科學與技術政策辦公室主任克拉齊奧斯（\nMichael Kratsios）主持。盧特尼克接受美國媒體CNBC訪問時表示，川普政府正在制定晶\n片關稅框架，「企業都知道美國即將課徵這項關稅」。\n\n盧特尼克說：「我認為這會是目標明確而且面面俱到的關稅政策，簡單來說，這項政策規\n定如果在這裡（美國）興建工廠，業者不必繳稅，但如果未在美國設廠，就要準備支付關\n稅以進入全球最大市場。」\n\n盧特尼克也表示，截至目前為止在美國生產半導體的投資承諾已達到1.2兆美元左右，部\n分承諾來自今年稍早敲定的台美貿易協定。盧特尼克透露，來自台灣的新一輪投資承諾下\n周將公諸於世，台灣將再宣布價值200億美元或300億美元的投資承諾。\n\n美國總統川普1月下令對部分先進半導體課徵25%關稅，Politico上周披露川普政府正評估\n大幅提高課徵半導體關稅的科技產品數量，可能把筆記型電腦、遊戲機和資料中心伺服器\n等搭載晶片的產品納入課稅清單，不再局限於晶片。報導指出，美國政府考慮分階段課徵\n新關稅，但未來數周至數月仍可能大幅調整框架。\n\n另一方面，盧特尼克也表示，不覺得美國公債殖利率最近上漲是應該擔心的事，認為美國\n經濟成長率上升和赤字下降，最終將「壓低利率」。盧特尼克說：「我對現況感到滿意我認為未來6個月左右利率將回穩並開始下降。」\n\n美國10年期公債殖利率周三盤中攀上4.818%，是2023年11月以來最高水準，反映市場對通\n膨和債務感到憂心。\n\n心得/評論：\n\n之前一直說的新晶片關稅\n商務部長今天對記者證實真的要！\n不意外的我台灣大積積又被主委加碼\n現在股市一風吹草動就要跌不跌的\n\n這次真的丸啦？\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 218.32.44.219 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788355165.A.9DA.html\n※ 編輯: DrowningPool (218.32.44.219 臺灣), 09/02/2026 21:19:58"
-    },
-    {
-      "board": "Stock",
-      "title": "[新聞] 欣興：載板供貨極度告急…客戶搶著要貨",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788406566.A.F1A.html",
-      "author": "EstelleRinz",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 98,
-          "comment_count": 182,
-          "push_n": 122,
-          "boo_n": 14
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 98,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "Yuijian",
-          "content": "急了"
-        },
-        {
-          "type": "推",
-          "user": "omanorboyo",
-          "content": "急著要貨不影響把本益比修正到20啊"
-        },
-        {
-          "type": "推",
-          "user": "livewater",
-          "content": "美國阿爸不制裁了嗎？"
-        },
-        {
-          "type": "推",
-          "user": "xephon",
-          "content": "欣興上看5000"
-        },
-        {
-          "type": "推",
-          "user": "Everforest",
-          "content": "急急急"
-        },
-        {
-          "type": "推",
-          "user": "v7q4",
-          "content": "https://i.meee.com.tw/M358hJT.gif"
-        },
-        {
-          "type": "推",
-          "user": "s881720",
-          "content": "急了"
-        },
-        {
-          "type": "推",
-          "user": "Richxard",
-          "content": "一直覺得欣興要下去的人，為什麼只會出一張嘴不敢"
-        },
-        {
-          "type": "推",
-          "user": "intointo",
-          "content": "噴"
-        },
-        {
-          "type": "推",
-          "user": "barryliou01",
-          "content": "急急急"
-        },
-        {
-          "type": "推",
-          "user": "rebel",
-          "content": "很賭啦 美國來個懲罰性賠償就崩了"
-        },
-        {
-          "type": "推",
-          "user": "achris0626",
-          "content": "急了，怕檢察官再來一次"
-        },
-        {
-          "type": "推",
-          "user": "cl3bp6",
-          "content": "急了"
-        },
-        {
-          "type": "推",
-          "user": "bcismylove",
-          "content": "急了.jpg"
-        },
-        {
-          "type": "推",
-          "user": "billkira",
-          "content": "https://i.verb.tw/o3WzKNZN.jpg"
-        },
-        {
-          "type": "推",
-          "user": "kanoka",
-          "content": "商譽受損"
-        },
-        {
-          "type": "推",
-          "user": "tony15899",
-          "content": "急了"
-        },
-        {
-          "type": "推",
-          "user": "liaon98",
-          "content": "急了"
-        },
-        {
-          "type": "推",
-          "user": "hate56",
-          "content": "急了"
-        },
-        {
-          "type": "推",
-          "user": "tengobo",
-          "content": "伊伊呀呀"
-        }
-      ],
-      "content": "聯合新聞網\n\nhttps://udn.com/news/story/7240/9730920\n欣興：載板供貨極度告急…客戶搶著要貨 未回應生產地爭議\n\n2026-09-03 01:29 ／ 記者朱子呈／台北報導\n\nABF載板大廠欣興（3037）董事長兼策略長簡山傑昨（2）日表示，AI晶片推動載板朝大尺\n寸、高層數及高複雜度演進，目前ABF載板產能「極度告急」。\n\n國際半導體展（SEMICON Taiwan 2026）昨天開展，並舉辦大師論壇爐邊對談，簡山傑擔\n任與談人之一，釋出以上觀點。\n\n他提到，不僅載板產能極度告急，上游供應鏈也正處於極為關鍵的時刻，特別是關鍵設備\n與核心材料，例如著名的ABF載板材料 T-Glass（電子級玻璃纖維布）絕大多數來自日本\n，這些業者大多是中小型企業。過去一年多來，欣興已拜訪他們十數次，以因應市場及客\n戶需求爆發。\n\n簡山傑指出，AI持續演進，整條供應鏈正面對過去少見的需求強度。載板原本就供不應求\n，如今客戶不只需要更多數量，產品規格也同步升級，讓業者必須一邊擴充產能，一邊處\n理更高的製造難度。\n\n欣興目前持續與客戶確認後續產能需求，並準備新廠，同時爭取土地、電力及人才等必要\n資源。可喜的是，「現在已看到具體成果，新產能陸續開出」。他說，接下來仍需繼續與\n日商緊密合作，為供應鏈建立更多的信心與韌性。\n\n他強調，隨著載板尺寸、層數及設計複雜度提高，客戶也要求更低的熱膨脹係數、介電常\n數及雜訊，並開始導入嵌入式結構與更複雜的多層設計。相關技術牽涉材料、設備及製造\n等多個環節，無法由單一業者完成，必須由整條供應鏈建立更緊密的合作模式。\n\n簡山傑轉任欣興董事長兼策略長之前，曾擔任聯電（2303）共同總經理，他也以在聯電的\n經驗分享目前AI對半導體製造業的影響。他提到，這波AI需求也不只落在先進製程，先進\n製程與成熟製程高度互補，儘管市場目光大多集中在2奈米等先進製程，成熟與特殊製程\n仍是支撐AI生態系的重要角色。業者應把握新應用帶來的機會，持續投入創新，聚焦差異\n化及高附加價值方案，不能只靠成本競爭。\n\n他說，高頻寬記憶體、特殊記憶體、邏輯晶粒、整合深溝槽電容的中介層及矽光子，都可\n能帶來新的需求。因此，成熟製程並非只是傳統市場，而是AI生態系不可缺少的一部分，\n仍有許多機會可以進一步開發。\n\n欣興近期捲入生產地爭議，簡山傑昨天與談結束後即離開未受訪。不過，欣興昨天股價終\n止跌勢，在大盤重挫784點下，逆勢收紅，終場漲2元、收973元，外資從8月28日爭議爆發\n以來，天天買超欣興，累計四個交易日已買超逾1萬張。\n\n【記者鐘惠玲／台北報導】國際半導體展（SEMICON TAIWAN 2026）昨（2）日開幕，主辦\n單位國際半導體產業協會（SEMI）總裁暨執行長馬諾查（Ajit Manocha）在開幕典禮致詞\n時表示，估計2030年時，全球半導體產值將達2兆美元，主要是歸功於AI的驅動。\n\n他提到，台灣的半導體生態系非常發達，過去30年來，台灣已經成為世界信賴的合作夥伴\n，隨著AI發展，生態系勢必將進一步擴展，衍生的新機遇將驅動經濟增長，全世界都在關\n注台灣。\n\n心得/評論：\n\n董仔說話了\n\n極度缺貨 客戶搶著要貨\n\n大家不要太緊張\n\n拉回就是買\n\n甜甜價不撿嗎?\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.173.40.36 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788406566.A.F1A.html\n※ 編輯: EstelleRinz (1.17"
-    },
-    {
-      "board": "Stock",
-      "title": "[新聞] 友達新加坡廠將以約新台幣87.53億元出售",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788361037.A.589.html",
-      "author": "rayisgreat",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 91,
-          "comment_count": 143,
-          "push_n": 95,
-          "boo_n": 4
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 91,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "allen0080",
-          "content": "錢啊"
-        },
-        {
-          "type": "推",
-          "user": "apolloapollo",
-          "content": "一直賣一直爽"
-        },
-        {
-          "type": "推",
-          "user": "bcismylove",
-          "content": "剩戀人"
-        },
-        {
-          "type": "推",
-          "user": "skullies0625",
-          "content": "聽說以後只留L5A,L5B,L6B跟后里L8D"
-        },
-        {
-          "type": "推",
-          "user": "ss425727100",
-          "content": "鐵皮屋租一租拿手電筒當光通"
-        },
-        {
-          "type": "推",
-          "user": "myv3688",
-          "content": "跟中環一樣炒股"
-        },
-        {
-          "type": "推",
-          "user": "haha7456",
-          "content": "笑死 浪浪現在是包子的跟屁蟲喔"
-        },
-        {
-          "type": "推",
-          "user": "NgJovi",
-          "content": "噴"
-        },
-        {
-          "type": "推",
-          "user": "mythwind",
-          "content": "噴"
-        },
-        {
-          "type": "推",
-          "user": "alladult",
-          "content": "滿手錢，改開銀行"
-        },
-        {
-          "type": "推",
-          "user": "ted1985",
-          "content": "被科技耽誤的房地產公司"
-        },
-        {
-          "type": "推",
-          "user": "ccdrv",
-          "content": "滿手錢 發錢給股東好了"
-        },
-        {
-          "type": "推",
-          "user": "kameaki5566",
-          "content": "學可成阿 利息領到手軟"
-        },
-        {
-          "type": "推",
-          "user": "lwchang0823",
-          "content": "應該可以轉型跟中環一樣專門炒股"
-        },
-        {
-          "type": "推",
-          "user": "johnwu",
-          "content": "最近都在賣祖產喔"
-        },
-        {
-          "type": "推",
-          "user": "azhu",
-          "content": "友達投控"
-        },
-        {
-          "type": "推",
-          "user": "doozia",
-          "content": "一直賣？？"
-        },
-        {
-          "type": "推",
-          "user": "iifz32",
-          "content": "意思是幾乎沒廠了 那只剩下控股公司了"
-        },
-        {
-          "type": "推",
-          "user": "InfoWars",
-          "content": "改名 友達投"
-        },
-        {
-          "type": "推",
-          "user": "rhythm7321",
-          "content": "XD"
-        }
-      ],
-      "content": "原文標題：\n友達新加坡廠將以約新台幣87.53億元出售\n原文連結：\nhttps://reurl.cc/zOqe96\n發布時間：\n\n2026/09/02 18:40:13\n\n記者署名：\n\n經濟日報 記者李珣瑛／新竹即時報導\n\n原文內容：\n\n友達（2409）董事會2日通過處分子公司AFPD Pte. Ltd.其廠房及相關廠務附屬設施，交\n易總金額為新加坡幣3.5億元（未稅，約當新台幣 87.53億元），將售予Western Digital\n (Singapore) Pte. Ltd.及/或其指定之人。\n\n友達公司指出，為聚焦輕資產營運模式、活化資產及優化財務結構，董事會決議出售建物\n面積17萬7,056平方公尺（約5萬3,559坪）、及附屬設備一批，予Western Digital (\nSingapore) Pte. Ltd.及/或其指定之人。總價為新加坡幣3.5億元（約當新台幣 87.53億\n元）。預計處分利益尚待買方取得當地主管機關之核准後確認。\n\n友達於2023年12月即證實，因LCD面板需求低迷及產線不具經濟效益，將關閉新加坡廠（\nL4B產線）並將設備運回台灣。新加坡廠已於2023年12月底停止生產，部分留守員工協助\n善後至2024年第1季。\n\n友達同步公告說明指出，AFPD將提出OTP予買方簽署，並提供買方於OTP日期起10個營業日\n的選擇權期間（Option Period）。且過戶前提條件將視買方是否取得當地主管機關（包\n括但不限於 Jurong Town Corporation）之核准。\n\n心得/評論：\n\n友達今年加速資產活化\n\n包含今天公告的新加坡廠，短短幾周賣出三座廠\n\n友達近年賣廠紀錄：\n\n2024 后里晶材廠西賣給美光，7 億\n2024 台南濾光片廠賣給美光，74 億\n2025 后里晶材廠東賣給美光，30.5 億\n2025 新竹廠賣給力成，69 億\n2026 華亞廠賣給廣達，197 億\n2026 路竹廠賣給日月光，63 億\n2026 新加坡廠賣給威騰，87 億\n\n這幾周也有消息中科廠兩座要賣給 GG\n\n在新加坡廠出售後，要輪到中科廠了嗎？\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.76.60.141 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788361037.A.589.html\n\n查了下官網，L5A/L5B/L6B 都在龍潭、L8B 在后里\n\n所以就是保留龍潭跟后里廠，其他廠全出售這樣？\n\n不曉得群創的廠還有要繼續賣嗎 @@？\n\n※ 編輯: rayisgreat (42.76.60.141 臺灣), 09/02/2026 23:39:04"
-    },
-    {
-      "board": "Stock",
-      "title": "[情報] 115年09月02日信用交易統計",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788354741.A.DA4.html",
-      "author": "steward135",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 86,
-          "comment_count": 135,
-          "push_n": 92,
-          "boo_n": 6
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 86,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "Jaspercool",
-          "content": "連七增 準備送貪狗下去囉"
-        },
-        {
-          "type": "推",
-          "user": "ccdrv",
-          "content": "融資正2 又回來了 明天會漲吧"
-        },
-        {
-          "type": "推",
-          "user": "cct1121",
-          "content": "貪狗太神拉"
-        },
-        {
-          "type": "推",
-          "user": "amig0123",
-          "content": "屌阿 這外資不殺都說不過去了"
-        },
-        {
-          "type": "推",
-          "user": "popo3809490",
-          "content": "貪狗集結了"
-        },
-        {
-          "type": "推",
-          "user": "Lowpapa",
-          "content": "完了   外資全倒出來了............"
-        },
-        {
-          "type": "推",
-          "user": "tomdavis",
-          "content": "貪狗隊又進場!?"
-        },
-        {
-          "type": "推",
-          "user": "UchihaKawhi",
-          "content": "丸子"
-        },
-        {
-          "type": "推",
-          "user": "zeus7668",
-          "content": "貪狗怎麼那麼強啊 上下來回刷耶"
-        },
-        {
-          "type": "推",
-          "user": "yoshiki78529",
-          "content": "這裡是勝利的A字型"
-        },
-        {
-          "type": "推",
-          "user": "javanaruto",
-          "content": "完蛋了，不久又要殺融資了"
-        },
-        {
-          "type": "推",
-          "user": "s155260",
-          "content": "相信空手高手不如相信正五貪狗 昨天賣高今天抄底"
-        },
-        {
-          "type": "推",
-          "user": "as3366700",
-          "content": "正五貪狗又進場了 明天大爆噴"
-        },
-        {
-          "type": "推",
-          "user": "zigq",
-          "content": "又幹進來了 我操"
-        },
-        {
-          "type": "推",
-          "user": "f204137",
-          "content": "穩了 難怪沒殺意"
-        },
-        {
-          "type": "推",
-          "user": "d0089145",
-          "content": "夜盤來看正5又要贏了  真心猛"
-        },
-        {
-          "type": "推",
-          "user": "deathdancer",
-          "content": "這波打帶跑下來根本聰明融資"
-        },
-        {
-          "type": "推",
-          "user": "Brioni",
-          "content": "貪狗集合！！"
-        },
-        {
-          "type": "推",
-          "user": "bear31223",
-          "content": "正二貪狗昨天高點賣出 今天大跌又買回來 真神"
-        },
-        {
-          "type": "推",
-          "user": "ccdrv",
-          "content": "正五怎麼這麼強  有夠神"
-        }
-      ],
-      "content": "1. 標題：115年09月02日信用交易統計\n2. 來源：臺灣證券交易所、證券櫃檯買賣中心 (公司名、網站名)\n3. 網址：https://reurl.cc/E2xlzv https://reurl.cc/V3AOXA (請善用縮網址工具)\n4. 內文：\n\n115年09月02日信用交易統計\n\n項目                  買進        賣出   現金(券)償還      前日餘額    今日餘額\n融資(交易單位)     342,329     304,105          5,332     8,896,988   8,929,880\n融券(交易單位)      27,274      21,519            765       220,835     214,315\n融資金額(仟元)  35,783,448  27,987,724        235,897   578,115,458 585,675,285\n\n資增   75.59   億 連7增\n券減   6,520   張\n=================================\n00632R元大台灣50反1\n資減  10,735   張\n券增     104   張\n00685L群益臺灣加權正2\n資增  10,651   張\n券減   6,192   張\n00631L元大台灣50正2\n資增  11,922   張\n券減   3,956   張\n00991A主動復華未來50\n資減   5,720   張\n券減      27   張\n00981A主動統一台股增長\n資增   9,151   張\n券減     486   張\n=================================\n2330台積電\n資增     736   張\n券減      16   張\n2303聯電\n資減   3,252   張\n券減     887   張\n2454聯發科\n資增     971   張\n券減       2   張\n2317鴻海\n資增   1,164   張\n券減      24   張\n6770力積電\n資增       9   張\n券增     277   張\n3037欣興\n資減     225   張\n券增      40   張\n2308台達電\n資增     752   張\n券增       4   張\n3019亞光\n資增   1,857   張\n券增      88   張\n2327國巨*\n資增   1,254   張\n券減       9   張\n2492華新科\n資減     396   張\n券增   1,010   張\n2344華邦電\n資減   1,574   張\n券增     431   張\n2408南亞科\n資增      89   張\n券增   1,866   張\n2337旺宏\n資增     292   張\n券增       3   張\n3481群創\n資減   1,994   張\n券減   1,476   張\n2409友達\n資減   1,300   張\n券增     221   張\n=================================\n櫃買信用交易統計\n資增    9.08   億\n券減     312   張\n1815富喬\n資增   2,436   張\n券減     587   張\n3105穩懋\n資增   2,241   張\n券減     390   張\n6182合晶\n資增   1,266   張\n券增   1,108"
-    },
-    {
-      "board": "Stock",
-      "title": "[新聞] AI需求增速30年未見！台積電設備需求半年",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788398370.A.046.html",
-      "author": "sayforever69",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 70,
-          "comment_count": 113,
-          "push_n": 75,
-          "boo_n": 4
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 70,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "baolidab",
-          "content": "全力買入"
-        },
-        {
-          "type": "推",
-          "user": "p95649564",
-          "content": "火燒連環船 C波大跌 身體發炎 這只是剛開始"
-        },
-        {
-          "type": "推",
-          "user": "MoneyDay5566",
-          "content": "利多出盡"
-        },
-        {
-          "type": "推",
-          "user": "Like5566Like",
-          "content": "股價繼續躺"
-        },
-        {
-          "type": "推",
-          "user": "AndyMAX",
-          "content": "不可能 昨天才說token價格落底 AI is over！"
-        },
-        {
-          "type": "推",
-          "user": "frog1983",
-          "content": "何時上3000？ 身家都押上了 就等你漲"
-        },
-        {
-          "type": "推",
-          "user": "ethan0419",
-          "content": "來惹"
-        },
-        {
-          "type": "推",
-          "user": "seuil",
-          "content": "不要再吹了 越吹越低"
-        },
-        {
-          "type": "推",
-          "user": "ggirls",
-          "content": "不買明天後悔"
-        },
-        {
-          "type": "推",
-          "user": "dnzteeqrq",
-          "content": "我書讀的少 你不要騙我 =.="
-        },
-        {
-          "type": "推",
-          "user": "bluealumi",
-          "content": "漲垃圾金融"
-        },
-        {
-          "type": "推",
-          "user": "leochao101",
-          "content": "股票也趕不太上"
-        },
-        {
-          "type": "推",
-          "user": "hate56",
-          "content": "再騙阿"
-        },
-        {
-          "type": "推",
-          "user": "kanoka",
-          "content": "折舊準備感人"
-        },
-        {
-          "type": "推",
-          "user": "tomdavis",
-          "content": "設備股?"
-        },
-        {
-          "type": "推",
-          "user": "jinsan",
-          "content": "招來不幸的g…"
+          "user": "firemothra",
+          "content": "https://i.imgur.com/bJzHTie.jpeg"
         },
         {
           "type": "推",
           "user": "starport",
-          "content": "這個GG已經沒用了"
+          "content": "https://i.meee.com.tw/GfChBfE.jpg"
         },
         {
           "type": "推",
-          "user": "deepelves",
-          "content": "你不要再說了...這是拿來出貨的新聞吧"
+          "user": "c1951",
+          "content": "https://reurl.cc/GgnQ1x  日本女警察也出來賣淫"
         },
         {
           "type": "推",
-          "user": "mecca",
-          "content": "又沒說都用在台灣QQ"
+          "user": "zxc902902",
+          "content": "早安"
         },
         {
           "type": "推",
-          "user": "xc2v",
-          "content": "AI市賣給外國用的 外國很多電"
+          "user": "sunbox",
+          "content": "早安大爆崩"
+        },
+        {
+          "type": "推",
+          "user": "badbadook",
+          "content": "川普：信不信由你，股市將會上漲"
+        },
+        {
+          "type": "推",
+          "user": "a2258335",
+          "content": "包子亂亂搓漲停有本事就真紅燈!!!"
+        },
+        {
+          "type": "推",
+          "user": "gtaped05550",
+          "content": "誰賣淫"
+        },
+        {
+          "type": "推",
+          "user": "ScotchWhisky",
+          "content": "早安大爆噴"
+        },
+        {
+          "type": "推",
+          "user": "lan3695120",
+          "content": "猩猩今天究竟能不能守911嘻嘻"
+        },
+        {
+          "type": "推",
+          "user": "shananren02",
+          "content": "早安"
+        },
+        {
+          "type": "推",
+          "user": "f9968106",
+          "content": "今日就是空蛙壽司之日"
+        },
+        {
+          "type": "推",
+          "user": "Xxxy",
+          "content": "川:信不信由你，美股不管漲跌台股都會跌"
+        },
+        {
+          "type": "推",
+          "user": "Dia149",
+          "content": "盤末崩崩"
+        },
+        {
+          "type": "推",
+          "user": "touchbird",
+          "content": "九月五萬不要不信"
+        },
+        {
+          "type": "推",
+          "user": "tinybunny",
+          "content": "https://imgur.com/pnJ8eBl"
+        },
+        {
+          "type": "推",
+          "user": "sunday0913",
+          "content": "媽媽"
+        },
+        {
+          "type": "推",
+          "user": "sp03154",
+          "content": "貝：我就是要搞爛亞洲股市"
         }
       ],
-      "content": "原文標題： AI需求增速30年未見！台積電設備需求半年暴增90％\n\n原文連結： https://ec.ltn.com.tw/article/breakingnews/5560953\n發布時間： 2026/09/02 17:27\n\n記者署名： 記者林薏茹／台北報導\n\n原文內容：\n\n台積電（2330）資深副總經理暨副共同營運長侯永清今（2）日表示，AI對產能有非常大\n的需求，與過去30年相比，從未看過需求以如此快速、如此高的頻率成長，以設備需求預\n估來看，假如去年底對設備的需求是1倍，一季之後，設備需求已增加到1.5倍，今年7月\n更進一步成長至1.9倍。\n\nSEMICON Taiwan 2026今日舉辦大師論壇暨全球生態系高峰會，爐邊對談壓軸登場。對於\nAI需求快速成長，侯永清談及台積電目前觀察到、以及正在面對的挑戰。\n\n侯永清指出，第一是產能，也就是支撐AI成長的引擎，AI對產能有非常龐大的需求，光是\n去年底到今年7月，台積電對設備需求的預估就成長達90%、將近翻倍，整個台灣半導體生\n態系要怎麼在短短6個月內，應付如此快速的需求成長，這是目前面臨的一大挑戰。\n\n另一個挑戰是技術。侯永清表示，AI需要強大的運算能力及能源效率，對封裝技術及整體\n系統效能的需求，成長速度比過去快很多，供應鏈的合作模式也需要改變，「必須確保某\n一個階段所實現的效能，到了下一個合作夥伴的階段之後，仍然能夠被實現」，這需要一\n種全新的合作模式。\n\n為因應產能瓶頸帶來的挑戰，侯永清說，不只是台積電，台灣所有的生態系夥伴，都在加\n倍努力，加快所有產能建設以滿足需求，為了支應客戶需求，台積電目前在台灣同步興建\n13座廠，這是過去從來沒有做過的事，同時，在全球其他地區還有5至6座廠正在興建，總\n計接近20座廠，過去一次大概只能進行4、5座廠的建設，現在規模已經大幅增加，「但即\n使如此，還是無法滿足需求」。\n\n心得/評論：\n\n台積電副總表示設備需求到今年7月的時候已經增長到1.9倍\nAI讓台積電對設備的需求預估成長到90% ，仍然趕不上台積電擴廠發展的速度\n也坦言不只是台積電，台灣所有的生態系夥伴，都在加倍努力，\n加快所有產能建設以滿足需求，為了支應客戶需求，台積電目前在台灣同步興建13座廠，\n這是過去從來沒有做過的事，同時，在全球其他地區還有5至6座廠正在興建，\n總計接近20座廠，過去一次大概只能進行4、5座廠的建設，現在規模已經大幅增加，\n「但即使如此，還是無法滿足需求」。\n\n目前設備廠趕不上台積電需求的速度，AI發展的實在太快\n需求越來越多 , 供應速度也要持續更上才能讓整體更加快速發展\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 117.56.108.25 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788398370.A.046.html"
+      "content": "==================115/09/04台股資訊重點整理，供股民做投資參考=================\n台　股　45857.66　▼307.06 (-0.67%)　9462.71億\n台指09　45837   　▼328    (-0.71%)　 52,744口\n盤後09　46487   　▲668    (+1.46%)　 38,260口\n\n台指期未平倉口數 自營商 +1,134 (+96) 投信 +74,389 (-673) 外資 -81,575 (+3,704)\n台指選未平倉口數 自營商 +11,433 (+4,008) 投信 -4,603 (0) 外資  -3,305 (  +413)\n\n日經 225　64214.48　▼111.16 (-0.17%)\n首爾綜指　 6579.48　▲ 16.76 (+0.26%)\n\n道瓊工業　53686.11　▲624.16 (+1.18%)\n那斯達克　26584.06　▲366.23 (+1.40%)\n標普 500　 7747.71　▲ 81.11 (+1.06%)\n費城半導　11352.13　▲ 12.88 (+0.11%)\n==============================================================================\n\n資料來源：臺灣證券交易所、中央社\n\n--\n\n逝影夢炎訊坤燃，音若知晰方時路；\n\n牽刻時照刹空瀚，遠騰賜間陽日浦。\n\nhttps://pbs.twimg.com/media/HRIXxl2bkAAVZrw.jpg\n\n作者：LUBE (@Lu_Bee__)\n\n獨行雪原的旅人於此小憩後踏上旅途。\n\nhttps://i.imgur.com/nnfO7qO.jpeg\n\n--\n\n長亭外，古道邊，芳草碧連天。晚風拂柳笛聲殘，夕陽山外山。\n天之涯，地之角，知交半零落。一壺濁酒盡餘歡，今宵別夢寒。\n長亭外，古道邊，芳草碧連天。問君此去幾時還，來時莫徘徊。\n天之涯，地之角，知交半零落。人生難得是歡聚，惟有別離多。\n　　　　　　　　　　　　　　　　　　　　　　　　　　——【現代】李叔同《送別》\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.74.218.94 (馬來西亞)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788481803.A.008.html"
+    },
+    {
+      "board": "Stock",
+      "title": "[新聞] 無視川普警告！伊朗連環襲擊科威特等中東",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788433791.A.8D7.html",
+      "author": "a0808996",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 79,
+          "comment_count": 187,
+          "push_n": 94,
+          "boo_n": 15
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 79,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "DustToDust",
+          "content": "三普 地獄之門再度開啟了"
+        },
+        {
+          "type": "推",
+          "user": "DustToDust",
+          "content": "阿爸真的被朗哥當細漢仔"
+        },
+        {
+          "type": "推",
+          "user": "qweertyui891",
+          "content": "AI壽司吧"
+        },
+        {
+          "type": "推",
+          "user": "anyu0805",
+          "content": "明天週五空軍日！！"
+        },
+        {
+          "type": "推",
+          "user": "b455104",
+          "content": "這輩子會看到美國史上第一次正式承認戰敗嗎"
+        },
+        {
+          "type": "推",
+          "user": "newlie83",
+          "content": "美國 越戰就戰敗了阿 怎麼會是第一次??"
+        },
+        {
+          "type": "推",
+          "user": "ccdrv",
+          "content": "恐佈星期五又來了"
+        },
+        {
+          "type": "推",
+          "user": "facio124",
+          "content": "憨川還有種打ㄇ"
+        },
+        {
+          "type": "推",
+          "user": "alucard6310",
+          "content": "倒有可能看到美國說破產，如果川普團隊繼續這樣亂搞"
+        },
+        {
+          "type": "推",
+          "user": "sunnyhung",
+          "content": "伊朗知道川普  要選舉了"
+        },
+        {
+          "type": "推",
+          "user": "ayufly",
+          "content": "老蘇贏定了"
+        },
+        {
+          "type": "推",
+          "user": "DustToDust",
+          "content": "直接打擊兒子 連阿公都不鳥了 中東遍地烽火"
+        },
+        {
+          "type": "推",
+          "user": "zero00072",
+          "content": "真實承諾 vs TACO。都擠？"
+        },
+        {
+          "type": "推",
+          "user": "a79111010",
+          "content": "真當榜伊大哥嚇大的"
+        },
+        {
+          "type": "推",
+          "user": "f204137",
+          "content": "https://i.imgur.com/vN0Xf6A.jpeg   A08 送你了"
+        },
+        {
+          "type": "推",
+          "user": "atliberty",
+          "content": "美國飛彈還剩多少？"
+        },
+        {
+          "type": "推",
+          "user": "deathdancer",
+          "content": "救命啊"
+        },
+        {
+          "type": "推",
+          "user": "asws0808",
+          "content": "沒人在乎"
+        },
+        {
+          "type": "推",
+          "user": "asirk124",
+          "content": "星期一又和談了"
+        },
+        {
+          "type": "推",
+          "user": "tony15899",
+          "content": "TACO:操盤中 沒空"
+        }
+      ],
+      "content": "無視川普警告！伊朗連環襲擊科威特等中東美軍基地\n\nhttps://www.ftvnews.com.tw/news/detail/2026903W0623\n\n發佈時間：2026/09/03 18:18\n\nAFP 法新社報導\n\n儘管美國總統川普威脅將發動更多打擊，伊朗週四仍對科威特境內的美軍基地發動飛彈與\n無人機襲擊。隨著美伊衝突在開戰六個月後再度升溫，雙方在中東地區的報復行動持續加\n劇，戰局陷入更深僵局。\n美伊衝突在爆發六個月後再度升級，伊朗軍方週四（Kuwait）針對科威特的阿瑪德賈柏空\n軍基地（Ahmad al-Jaber Air Base）發動飛彈與無人機攻擊。科威特軍方表示已成功攔\n截襲擊，並強烈譴責這項行動嚴重威脅其國家安全與穩定，違反國際法規範。伊朗方面則\n宣稱，本週已同步鎖定阿拉伯聯合大公國、巴林、約旦及伊拉克庫德自治區境內的美軍設\n施展開報復。\n\n這波襲擊起因於美軍日前對伊朗全境發動的大規模轟炸，造成至少19名伊朗人死亡。伊朗\n指控美軍飛彈擊中南部沿海城鎮Kuhestak的一場婚禮，導致包含一名孩童在內共4人喪命\n、逾50人受傷。面對指控，美軍中央司令部（CENTCOM）發言人Tim Hawkins強調，美軍行\n動從不以平民為目標。\n\n川普此前表示，美軍已準備好「在任何想要的時候」打擊伊朗，甚至在社群媒體 Truth\nSocial 上發文提及是否該將伊朗封鎖的荷姆茲海峽（Strait of Hormuz）改名為「川普\n海峽」，不過他隨後暗示這只是玩笑。除軍事行動外，美國能源部長Chris Wright也宣布\n將擴大制裁伊朗的經濟夥伴，施加「絕對的極限施壓」。\n\n心得/評論：\n\n伊朗又射了!!!!!!!!\n川普放話就是個屁!!!!\n油價又衝上去了!!!!!!!\n9月升息我看機率超高!!!!\n準備迎接空頭大屠殺!!!!!!!\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 123.194.190.85 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788433791.A.8D7.html\n※ 編輯: a0808996 (123.194.190.85 臺灣), 09/03/2026 19:11:06"
+    },
+    {
+      "board": "Stock",
+      "title": "[新聞] 馬斯克推出無方向盤計程車服務，押注乘",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788478022.A.973.html",
+      "author": "asahi98",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 75,
+          "comment_count": 149,
+          "push_n": 75,
+          "boo_n": 0
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 75,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "A80211ab",
+          "content": "無人車能幫行動不便的上下行李嗎"
+        },
+        {
+          "type": "推",
+          "user": "silverair",
+          "content": "台灣的交通環境才需要這種東西吧，人的反應速度對"
+        },
+        {
+          "type": "推",
+          "user": "NgJovi",
+          "content": "好歹留一支搖桿給我"
+        },
+        {
+          "type": "推",
+          "user": "chenyeart",
+          "content": "台灣不可能全面推廣，自動駕駛會把安全放在最高位，"
+        },
+        {
+          "type": "推",
+          "user": "edkao",
+          "content": "沒有方向盤跟踏板下意識就是企業負全責啦"
+        },
+        {
+          "type": "推",
+          "user": "luche",
+          "content": "駭客能介入操作嗎？=.="
+        },
+        {
+          "type": "推",
+          "user": "karta018",
+          "content": "沒方向盤就只能開直線，這樣當然很安全"
+        },
+        {
+          "type": "推",
+          "user": "springman",
+          "content": "我認為如果有一個國家全國推廣無人車十年後，台灣才"
+        },
+        {
+          "type": "推",
+          "user": "luche",
+          "content": "台灣是很適合作導入測試的場域"
+        },
+        {
+          "type": "推",
+          "user": "eastereaster",
+          "content": "直接說買哪支"
+        },
+        {
+          "type": "推",
+          "user": "smart1989",
+          "content": "當無人計程車費用是有司機的一半，大家身體就會很"
+        },
+        {
+          "type": "推",
+          "user": "a524528",
+          "content": "十年？你太看得起台灣的進步了，星練到現在都沒有"
+        },
+        {
+          "type": "推",
+          "user": "hidework",
+          "content": "300元的特斯拉已經買不到了"
+        },
+        {
+          "type": "推",
+          "user": "Usmall857",
+          "content": "台灣一堆毒駕，改無人Ai介入駕駛比較安全"
+        },
+        {
+          "type": "推",
+          "user": "ohlong",
+          "content": "翻譯：兩腳開開準備投胎94惹"
+        },
+        {
+          "type": "推",
+          "user": "moto000",
+          "content": "至少要比80歲老人開車安全"
+        },
+        {
+          "type": "推",
+          "user": "springman",
+          "content": "如果還是補助裕隆來發展無人車，大約就等於直接進口"
+        },
+        {
+          "type": "推",
+          "user": "b1izzard2000",
+          "content": "快來台灣"
+        },
+        {
+          "type": "推",
+          "user": "aloness",
+          "content": "無人計程車在台灣會被幹翻吧…跟用路人搶停車位的東"
+        },
+        {
+          "type": "推",
+          "user": "Roger5566",
+          "content": "沒有剎車至少要有雷達才安全 光靠視覺是不夠的"
+        }
+      ],
+      "content": "原文標題： 請勿刪減或自創標題，違者4-1處分，此行請刪除\n\n馬斯克推出無方向盤計程車服務，押注乘客將克服「無法掌控」的恐懼並願意搭乘\n\n原文連結： 網址超過一行，請用縮網址，連結不能點擊者板規 1-2-2 處分。\n\nhttps://reurl.cc/rkEoo1\n發布時間： 請勿張貼超過3天新聞\n\n更新時間：2026 年 9 月 4 日 上午 4:59（GMT+8）\n\n記者署名：\n\nBERNARD CONDON\n\n原文內容：\n\n紐約（美聯社）——伊隆・馬斯克（Elon Musk）週四讓數十輛沒有方向盤、也沒有煞車\n踏板的自動駕駛 Cybercab 駛上德州奧斯汀街頭，押注美國民眾將克服對於搭乘「無法自\n行控制」車輛的恐懼，並願意坐進車內。\n\n這批金色特斯拉 Cybercab 的推出，正值該公司準備在其他城市推出這項服務之際。這些\n車輛在發生緊急狀況時，也沒有提供乘客接管車輛的方式。\n\n特斯拉股價先前因汽車銷量下滑而承受壓力，不過週四上漲超過 5%，市場期待這款充滿\n未來感的計程車能夠迅速獲得市場接受。\n\n「沒有方向盤，沒有踏板。」\n\n特斯拉在正式推出前於 X 平台上如此預告。\n\n隨後，馬斯克發布了一則貼文，畫面中一輛巨大的 Cybercab 漂浮在奧斯汀天際線上方；\n之後他又寫道：\n\n「Cybercab 風暴（A Storm of Cybercabs）。」\n\n一場僅限受邀人士參加的發表活動，預計將於週四稍晚舉行。\n\n目前尚不清楚馬斯克打算多快推廣 Cybercab 服務，但他必須迅速採取行動。\n\n在已部署的自動駕駛計程車數量以及完成載客趟數方面，特斯拉目前仍落後自動駕駛計程\n車市場領導者 Waymo。\n\n如果特斯拉想追上 Waymo，就必須證明其僅依靠攝影機的系統，能夠安全地在街道上行駛\n並避開行人。\n\n相較之下，Waymo 以及另一家競爭對手、亞馬遜旗下的 Zoox，除了攝影機之外，還搭配\n使用雷達，以及一種稱為光達（LiDAR）的雷射感測技術。\n\n即使這項技術運作良好，特斯拉仍然必須說服美國民眾願意接受它。\n\n皮尤研究中心（Pew Research Center）今年 2 月進行的一項調查顯示，每 10 名美國成\n年人中就有 7 人表示，對於搭乘無人駕駛汽車感到「不太自在」或「完全不自在」。\n\n去年，在馬斯克接手美國總統川普政府削減成本的行動——也就是被稱為 DOGE 的政府效\n率計畫——並公開支持極右派政治候選人之後，特斯拉股價遭受重挫。\n\n這些行動引發特斯拉展示中心外的抗議活動，也導致多個國家的汽車消費者發起抵制。\n\n特斯拉去年汽車銷量連續第二年出現年度衰退。\n\n公司的獲利大幅下滑，同時也失去了全球最大電動車銷售商的寶座，被中國的比亞迪（\nBYD）超越。\n\n自去年 6 月起，奧斯汀便已有特斯拉的自動駕駛「Robotaxi」服務，但這些車輛仍配備\n方向盤與煞車踏板。\n\n這項服務之後已擴展至德州與佛羅里達州另外五座城市。在服務剛推出時，車內仍有安全\n駕駛員隨車，以便發生問題時接管車輛。\n\n根據監測網站 RobotaxiTracker 的資料，特斯拉目前在這些城市擁有超過 200 輛「無監\n督」（unsupervised）Robotaxi，也就是車內沒有安全駕駛員、由車輛自行運作的自動駕\n駛計程車。\n\nWaymo 則在 14 座城市擁有超過 4,000 輛這類車輛。\n\n在皮尤的調查中，16% 的美國成年人表示，他們對搭乘無人駕駛汽車會感到「有些自在」\n；另有 7% 表示，他們會感到「非常自在」或「十分自在」。\n\n蓋洛普（Gallup）在 20"
+    },
+    {
+      "board": "Stock",
+      "title": "Re: [新聞] 欣興遭搜索後股價首度翻紅！外資連17日",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788486027.A.D2D.html",
+      "author": "Zeewa",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 75,
+          "comment_count": 142,
+          "push_n": 82,
+          "boo_n": 6
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 75,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "johnny1229",
+          "content": "888 886"
+        },
+        {
+          "type": "推",
+          "user": "zzztrees",
+          "content": "888888"
+        },
+        {
+          "type": "推",
+          "user": "ChikanDesu",
+          "content": "掀奶罩了 破911防線 大戶準備棄守"
+        },
+        {
+          "type": "推",
+          "user": "Benson210",
+          "content": "南電：要死一起死"
+        },
+        {
+          "type": "推",
+          "user": "wicer",
+          "content": "9/1的底部一破 到底會去哪呢...."
+        },
+        {
+          "type": "推",
+          "user": "takuya1",
+          "content": "禮拜二三有量的時候我就說趁現在快跑，不然到時候會"
+        },
+        {
+          "type": "推",
+          "user": "mitchness",
+          "content": "8ZZ要喝苦茶了"
+        },
+        {
+          "type": "推",
+          "user": "foxher",
+          "content": "今日破半年線就開始了"
+        },
+        {
+          "type": "推",
+          "user": "UchihaObito",
+          "content": "他會跟你說早就跑了，他永遠不會賠錢的"
+        },
+        {
+          "type": "推",
+          "user": "steven3QXD",
+          "content": "他會說早就早點賺完跑了"
+        },
+        {
+          "type": "推",
+          "user": "cmcmisgod",
+          "content": "猩猩500見"
+        },
+        {
+          "type": "推",
+          "user": "cckk969",
+          "content": "我們的人就愛吹，嘻嘻"
+        },
+        {
+          "type": "推",
+          "user": "January01x",
+          "content": "https://i.mopix.cc/jtNw6C.jpg"
+        },
+        {
+          "type": "推",
+          "user": "LinYuSh",
+          "content": "笑死 不要這樣鞭屍"
+        },
+        {
+          "type": "推",
+          "user": "takuya1",
+          "content": "他貼那個單沒有被桶？？？"
+        },
+        {
+          "type": "推",
+          "user": "lsgsl",
+          "content": "第二根救市的主力鮮奶罩了~~"
+        },
+        {
+          "type": "推",
+          "user": "cphe",
+          "content": "沒單的東西都應該要桶吧  是說現在AI圖也沒人知道"
+        },
+        {
+          "type": "推",
+          "user": "nwc732",
+          "content": "我在等他富喬的單,說三小300,可能已經先跑了"
+        },
+        {
+          "type": "推",
+          "user": "checkmarx",
+          "content": "xddd 911不敢秀單"
+        },
+        {
+          "type": "推",
+          "user": "BDroach",
+          "content": "不要和一個小丑較勁=="
+        }
+      ],
+      "content": "wow~~~\n先知~~~\n你這兩天好安靜喔???\n\n你發文後買盤進駐了?\n懂得就懂?\n還有甚麼話說?\n有實力的人發文 股價自然上去?\n\n我是相信你的!\n只是現實有點沒照你吹得走...\n能不能再給點指引?\nall in?\n四代同堂炒底?\n快出來說說話!\n我發家致富全靠你了!\n\n※ 引述《ann16 (NNNNNNNNN)》之銘言：\n: 原文標題： 欣興遭搜索後股價首度翻紅！外資連17日買超6.6萬張 市場在押什麼？\n: 原文連結： https://reurl.cc/7Y4ZZ5\n: 發布時間： 2026-09-02 12:30\n: 記者署名：李慧蘭\n: 原文內容：欣興（3037）產地標示爭議尚待釐清，桃園地檢署日前搜索公司龜山總公司及\n: 中\n: 壢廠，目前相關案情仍在偵辦中。不過，股價經歷連續重挫後，2日出現承接買盤，早盤\n: 以9\n: 55元開出、一度走低至948元後翻紅，最高觸及988元，為檢調搜索後首度翻紅；反觀前一\n: 日\n: 受到「轉單」預期帶動而走強的PCB、載板股，今日反而普遍承壓，族群走勢明顯分化。\n: 從盤面來看，南電（8046）2日跌逾2%，並失守月線；景碩（3189）回測10日線，臻鼎-KY\n: （\n: 4958）跌幅近4.5%、500元大關面臨保衛戰。相較之下，身處事件核心的欣興卻頻頻由黑\n: 翻\n: 紅，顯示資金對「轉單」題材並未全面追價，反而開始回到個股基本面與事件實際影響的\n: 評\n: 估。\n: 值得注意的是，欣興股價劇烈修正之際，外資籌碼並未同步轉空。統計8月10日至9月1日\n: ，\n: 外資已連續17個交易日買超欣興，累計達6.62萬張；其中9月1日股價震盪走弱，外資仍買\n: 超\n: 4,271張。法人籌碼與股價走勢出現明顯落差，也成為市場觀察焦點。\n: 籌碼面另一項訊號則來自高盛。欣興9月1日遭證交所列入注意股，當日收盤971元，本益\n: 比6\n: 4.65倍、股價淨值比12.46倍，周轉率達5.75%；同日美商高盛證券成交買進金額達1億元\n: 以\n: 上，占欣興當日總成交金額15.7%。在股價近3日下跌17.71%、近5日下跌11.32%的情況下\n: ，\n: 仍出現較大金額買進，進一步凸顯短線籌碼的多空分歧。\n: 不過，市場近期出現的「轉單」題材，目前仍屬市場預期與聯想，尚無明確證據顯示客戶\n: 已\n: 大規模將訂單移轉至其他供應商。此次事件主要涉及PCB產品產地認定及跨國產能配置，\n: 並\n: 非ABF載板業務本身，因此後續真正需要觀察的，仍是客戶關係、實際訂單及產能配置是\n: 否\n: 受到實質影響。\n: 回到基本面，欣興AI GPU、ASIC及HPC相關需求仍具支撐，AI產品營收占比上半年已超過6\n: 0%\n: ，市場預期下半年進一步提高至70%；此外，光復二期預計第3季、光復二廠預計2027年第\n: 2\n: 季推進，AI高階產品仍是中長期成長主軸。\n: 因此，現階段欣興股價在大幅修正後出現翻紅，搭配外資持續買超，反映市場對事件衝擊\n: 的\n: 看法仍存在分歧；但僅憑短線股價與法人籌碼變化，尚不足以判定風險已經排除。後續除\n: 了\n: 觀察外資買超能否延續，更重要的是追蹤客戶訂單、產能配置及事件調查進展，才能進一\n: 步\n: 確認產地爭議對欣興基本面的實際影響。\n: 心得/評論：這版一堆假日洗版說的多可怕\n: 結果我昨天公開發文後\n: 就開始有買盤進駐了\n: 有實力的人發文 股價自然會被買上去\n: 懂得就懂了！\n: https://i.imgur.com/KaSwv5w.jpeg\n: 今天欣興是ABF唯一"
+    },
+    {
+      "board": "Stock",
+      "title": "[新聞] Fed理事放鴿！升息預期降溫　美股開高道",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788457711.A.CB6.html",
+      "author": "CreatorK",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 67,
+          "comment_count": 115,
+          "push_n": 76,
+          "boo_n": 9
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 67,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "s555666",
+          "content": "前天才升息升溫，今天就降溫了，這什麼鬼"
+        },
+        {
+          "type": "推",
+          "user": "alvis000",
+          "content": "忽冷忽熱"
+        },
+        {
+          "type": "推",
+          "user": "ted1985",
+          "content": "油價 國債 日圓 股價。看整天不懂 失去邏輯了"
+        },
+        {
+          "type": "推",
+          "user": "tn950811",
+          "content": "你們FED自己要不要先打一架"
+        },
+        {
+          "type": "推",
+          "user": "as3366700",
+          "content": "聯準會真的很會玩XD 輪流出來玩弄"
+        },
+        {
+          "type": "推",
+          "user": "fantasyscure",
+          "content": "美國環境本來就不可能升息 是在？"
+        },
+        {
+          "type": "推",
+          "user": "kuroboy009",
+          "content": "三普多單建好了"
+        },
+        {
+          "type": "推",
+          "user": "CloudVII",
+          "content": "施壓日本要求讓日圓升值 日本賣美債壓力緩解就開始"
+        },
+        {
+          "type": "推",
+          "user": "wylscott",
+          "content": "華許本來就沒說死 都是市場自行解讀的"
+        },
+        {
+          "type": "推",
+          "user": "stormNEW",
+          "content": "根本沒差，不甘我們散戶的事"
+        },
+        {
+          "type": "推",
+          "user": "brain9453",
+          "content": "雞掰欸"
+        },
+        {
+          "type": "推",
+          "user": "searchroy",
+          "content": "吃到川普口水？？？"
+        },
+        {
+          "type": "推",
+          "user": "pp5270",
+          "content": "不會升息了 資金明天回流電子股"
+        },
+        {
+          "type": "推",
+          "user": "takuya1",
+          "content": "基本的多頭排列真的有人不會看嗎？=="
+        },
+        {
+          "type": "推",
+          "user": "EasyIsBeauty",
+          "content": "笑死，選舉前都不可能升啦，華西街一直想空"
+        },
+        {
+          "type": "推",
+          "user": "chobit618",
+          "content": "就說費的很擊敗，常放風聲讓市場自己先消化"
+        },
+        {
+          "type": "推",
+          "user": "fcs83210",
+          "content": "軟蛋不敢升息啦 只剩一張嘴跟川普一樣"
+        },
+        {
+          "type": "推",
+          "user": "w08445566",
+          "content": "千點招待 鮮奶照"
+        },
+        {
+          "type": "推",
+          "user": "elvishuang",
+          "content": "這有啥大驚小怪 聯準會10幾個官員 本來就會意見不同"
+        },
+        {
+          "type": "推",
+          "user": "fowir",
+          "content": "大頭有人做多有人做空，輪流出來講。"
+        }
+      ],
+      "content": "文章標題 請使用 原新聞標題 勿刪減或自創標題，違者4-1處分\n\n原文標題：Fed理事放鴿！升息預期降溫　美股開高道瓊工業指數漲逾400點\n\n原文連結：縮網址：https://reurl.cc/rkEkp1\n原文網址：\nhttps://www.nownews.com/news/6872018?srsltid=AfmBOoqdvhG5K0dhoCN-LXkLlY6VhJ_\nf8hdt0V8ArWrZWmLjGZznxeyS\n\n發布時間：2026-09-03 21:57:34\n\n記者署名：記者倪浩軒/綜合報導\n\n原文內容：\n美股週四（3日）開盤後各主要指數齊漲，美債殖利率有所回落，市場對美國聯準會（Fed\n）不會升息的期望提高，週五將公布的最新非農就業報告成為關注焦點。\n\n截至寫稿時間為止，道瓊工業指數上漲430.11點或0.77％；標普500指數上漲47.40點或0.\n62％；那斯達克指數上漲244.736點或0.93％；費城半導體指數下跌165.69點或1.46％。\n\n焦點個股方面，台積電ADR股價在盤中下跌1.13％、輝達上漲1.71％。記憶體類股方面，\n指數美光下跌1.77％、Sandisk下跌1.88％，SK海力士ADR股價下跌3.32％。\n\n根據《CNBC》報導，美國聯準會理事沃勒表態，除非即將公佈的通膨數據出現意外，否則\n他「傾向支持」維持利率不變，受此影響，美債殖利率出現下跌。根據芝加哥商品交易所\n（CME）的FedWatch工具顯示，目前有54.6％交易員押注聯準會將在最新利率會議上升息\n，比前一天的62％有所降低。\n\n沃勒的發言，加上日圓大幅升值，讓市場的樂觀情緒提高。雖然油價再度上漲，美國西德\n州原油價格升至每桶92美元左右，國際布蘭特原油價格也漲至每桶96美元左右，皆大約上\n漲了1％。\n\nVital Knowledge創辦人克里薩富利（Adam Crisafulli）表示，「如果日圓持續走強，（\n理論上，日圓持續升值將能消除全球公債殖利率的上升壓力）這或許會成為一條關鍵線索\n，有助於解開許多壓制股市的宏觀經濟不利因素」。\n\nCIFC Asset Management董事總經理洛熱夫斯基（Natalia Lojevsky）則表示，「市場存\n在多個懸而未決的問題和衝突，且沒有任何一個有明確的解決時間表。投資者在入場時需\n保持謹慎」。洛熱夫斯基警告，「在某個節點上，美債殖利率持續走高將對股市構成切實\n痛苦」。\n\n※【NOWNEWS 今日新聞】提醒投資人，投資一定有風險，投資有賺有賠，申購前應詳閱公\n開說明書，學習正確的投資觀念才能將損失的風險降至最低。\n\n心得/評論：\n\n看來今天大漲是因為有鴿派出來表態?\n但明天非農指數不好，應該又集體往下了\n\n※必須填寫滿30正體中文字，心得過短或濫竽充數將以板規 1-2-3 處分\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.248.142.227 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788457711.A.CB6.html\n※ 編輯: CreatorK (111.248.142.227 臺灣), 09/04/2026 01:50:11"
+    },
+    {
+      "board": "Stock",
+      "title": "[新聞] 快訊／ChatGPT全球大當機！用戶崩潰",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788449818.A.2AA.html",
+      "author": "arsl400",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 59,
+          "comment_count": 126,
+          "push_n": 69,
+          "boo_n": 10
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 59,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "Kostolany",
+          "content": "Claude也怪怪的"
+        },
+        {
+          "type": "推",
+          "user": "afacebook",
+          "content": "每個都買 備用"
+        },
+        {
+          "type": "推",
+          "user": "b2060027830",
+          "content": "傻歸傻，但是就是穩"
+        },
+        {
+          "type": "推",
+          "user": "onekoni",
+          "content": "蒜粒不足 請多買老黃"
+        },
+        {
+          "type": "推",
+          "user": "westmoney",
+          "content": "難怪剛剛夜盤噴了（並不是"
+        },
+        {
+          "type": "推",
+          "user": "AndyMAX",
+          "content": "蒜粒不足 token加價賣"
+        },
+        {
+          "type": "推",
+          "user": "qk3380888",
+          "content": "Token太便宜了"
+        },
+        {
+          "type": "推",
+          "user": "foolwind",
+          "content": "很多人沒AI現在就要死了"
+        },
+        {
+          "type": "推",
+          "user": "Eide",
+          "content": "我的開發功力瞬間少了十年修為"
+        },
+        {
+          "type": "推",
+          "user": "jimpon",
+          "content": "Grok比較好用，已經有初步AGI的感覺 推薦"
+        },
+        {
+          "type": "推",
+          "user": "joygo",
+          "content": "好可怕 沒ai我上班真的直接掛機"
+        },
+        {
+          "type": "推",
+          "user": "gt2324",
+          "content": "GEMINI其實很好用的"
+        },
+        {
+          "type": "推",
+          "user": "waitrop",
+          "content": "小事情，讓我們繼續檢討Gemini"
+        },
+        {
+          "type": "推",
+          "user": "okderla",
+          "content": "該不會又是CloudFlare出包...?"
+        },
+        {
+          "type": "推",
+          "user": "KY1998",
+          "content": "誰的陰謀？"
+        },
+        {
+          "type": "推",
+          "user": "lakershank",
+          "content": "華西街：看吧"
+        },
+        {
+          "type": "推",
+          "user": "Q00863",
+          "content": "需要更多蒜粒"
+        },
+        {
+          "type": "推",
+          "user": "ilGroundhog",
+          "content": "感覺有陰謀吧"
+        },
+        {
+          "type": "推",
+          "user": "grtfor",
+          "content": "有的好像修好了"
+        },
+        {
+          "type": "推",
+          "user": "berryc",
+          "content": "ChatGPT聊天很強啊,真的可以模擬跟朋友在那練肖維"
+        }
+      ],
+      "content": "快訊／ChatGPT全球大當機！用戶崩潰\n\n原文連結： 網址超過一行，請用縮網址，連結不能點擊者板規 1-2-2 處分。\nhttps://ai.ettoday.net/news/3231245\n發布時間： 請勿張貼超過3天新聞\n2026年09月03日 23:07\n記者署名：\n楊庭蒝\n原文內容：\n聊天機器人ChatGPT於3日深夜傳出大當機災情。國內外許多使用者皆反映，無論是網頁版\n或手機APP目前皆無法正常連線使用。\n\n國內論壇PTT八卦版上有網友於3日晚間發文詢問「ChatGPT 掛了 ?」，表示網頁與APP都\n連不上。該篇貼文迅速引發大量網友迴響，紛紛推文回報「404」、「me too」等災情。\n發文原PO也無奈表示「哭啊，查資料查到一半404」。此外，留言區亦有網友指出另一AI\n工具Claude也同步出現異常，並有網友回報「Gemini安定」。\n\n根據全球連線狀態追蹤網站Downdetector的數據顯示，針對OpenAI的問題回報數在短時間\n內呈現垂直飆升的狀態。在該網站的留言區中，國外網友同樣湧入回報無法存取平台、頻\n繁收到404錯誤代碼等狀況。不少用戶反映整個網站與APP皆已停擺。\n\n心得/評論：\n先無預警限流量，然後又是全球大當機，鐵定是我大歐噴醬下一個模型Astra太強了\n對吧??大家反應這麼大，先怒買一波再說\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.91.32.112 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788449818.A.2AA.html"
+    },
+    {
+      "board": "Stock",
+      "title": "[新聞] GPT-6 Astra來了！AI推理得分99.9%",
+      "url": "https://www.ptt.cc/bbs/Stock/M.1788480289.A.288.html",
+      "author": "arsl400",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 56,
+          "comment_count": 71,
+          "push_n": 58,
+          "boo_n": 2
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 56,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "s91156",
+          "content": "完了標題我看成GTA6"
+        },
+        {
+          "type": "推",
+          "user": "Lebrono",
+          "content": "看成gta6 還以為是啥豪華版取這名"
+        },
+        {
+          "type": "推",
+          "user": "r22025",
+          "content": "gta6 彎道超車"
+        },
+        {
+          "type": "推",
+          "user": "abcqq2323",
+          "content": "GTA6 讚"
+        },
+        {
+          "type": "推",
+          "user": "STi2011",
+          "content": "結果GPT 早上的排程沒做"
+        },
+        {
+          "type": "推",
+          "user": "gwofeng",
+          "content": "幫忙控制核彈"
+        },
+        {
+          "type": "推",
+          "user": "Derry20732",
+          "content": "GTA6讚讚"
+        },
+        {
+          "type": "推",
+          "user": "h0103661",
+          "content": "可是綜合排名還不如meta"
+        },
+        {
+          "type": "推",
+          "user": "speed364",
+          "content": "GTA6穩"
+        },
+        {
+          "type": "推",
+          "user": "EvilJustice",
+          "content": "GTA6評分這麼高喔"
+        },
+        {
+          "type": "推",
+          "user": "fhscyt",
+          "content": "GTA6好耶"
+        },
+        {
+          "type": "推",
+          "user": "Between1986",
+          "content": "可以請GPT6玩GTA6嗎"
+        },
+        {
+          "type": "推",
+          "user": "starport",
+          "content": "GTA6 你這不是很懂嗎"
+        },
+        {
+          "type": "推",
+          "user": "dildoe",
+          "content": "gpt6 玩gta6沒問題啊"
+        },
+        {
+          "type": "推",
+          "user": "harrychen413",
+          "content": "GTA6終於要來了！"
+        },
+        {
+          "type": "推",
+          "user": "rxsmalllove",
+          "content": "GTA6 神作"
+        },
+        {
+          "type": "推",
+          "user": "dosiris",
+          "content": "打不過就加入GTA6"
+        },
+        {
+          "type": "推",
+          "user": "arickal",
+          "content": "gta 6"
+        },
+        {
+          "type": "推",
+          "user": "aalanwu",
+          "content": "真的看到腦袋會自動變成GTA-6"
+        },
+        {
+          "type": "推",
+          "user": "ponpondoggy",
+          "content": "靠北看成GTA6"
+        }
+      ],
+      "content": "文章標題 請使用 原新聞標題 勿刪減或自創標題，違者4-1處分\nGPT-6 Astra來了！AI推理得分99.9%、還能自己操作電腦做事\n\n原文連結： 網址超過一行，請用縮網址，連結不能點擊者板規 1-2-2 處分。\nhttps://ai.ettoday.net/news/3231279\n發布時間： 請勿張貼超過3天新聞\n2026年09月04日 06:46\n\n記者署名：\n吳立言\n原文內容：\nOpenAI 宣布推出新一代 AI 模型 GPT-6 Astra，這次升級的重點不只是「回答問題更準\n」，而是讓 AI 能直接操作電腦、使用軟體並完成一連串工作。\n\nAI 開始直接替你做事\n\nGPT-6 Astra 可以處理填寫網路表單、更新客戶資料、整理行事曆、搜尋網路資料等工作\n，也能製作文件、簡報與試算表。 例如使用者只要交代任務，Astra 就能自行操作相關\nA也能製作文件、簡報與試算表。 例如使用者只要交代任務，Astra 就能自行操作相\n關\n工具完成多個步驟，不用再每完成一步就等待使用者下指令。\n\n電腦操作速度更快\n\n在 OSWorld 2.0 測試中，GPT-6 Astra 得分 72.6%，高於 GPT-5.6 Sol 的 65.7%。\nOpenAI 表示，Astra 完成這類電腦操作任務所需時間約 40 分鐘，GPT-5.6 Sol 則約\n75 分鐘。 搭配更新後的 Codex 執行環境，在 Mind2Web 測試中，整體任務完成速度約\n提升至目前 GPT-5.6 Sol 體驗的 1.9 倍。\n\n寫程式與研究能力同步提升\n\nAstra 也針對程式開發、數學與科學工作進行強化。它能協助除錯、修改大型程式，也能\n使用專業軟體分析科學資料。 在 FrontierMath Tier 4 測試中，Astra 得分 97.6%，\nGPT-5.6 Sol 為 83.0%；ARC-AGI-3 則達到 99.9%。\n\n資安能力更強也更危險\n\n心得/評論：\n\n歪梯下方留言酸到爆:可以幫我把Claude做掉嗎?你的額度已經用光，請加價\n看起來又是劃時代一個新科技，買進囉\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 219.91.32.112 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788480289.A.288.html"
     },
     {
       "board": "Beauty",
@@ -849,15 +976,15 @@
       "author": "jasontwn",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 46,
-          "comment_count": 65,
-          "push_n": 48,
-          "boo_n": 2
+          "time": "04:53",
+          "push_count": 100,
+          "comment_count": 165,
+          "push_n": 124,
+          "boo_n": 7
         }
       ],
       "push_count_growth": 0,
-      "latest_push_count": 46,
+      "latest_push_count": 100,
       "top_comments": [
         {
           "type": "推",
@@ -964,843 +1091,123 @@
     },
     {
       "board": "Beauty",
-      "title": "[正妹] 俄羅斯的Lcup有多大?",
-      "url": "https://www.ptt.cc/bbs/Beauty/M.1788321767.A.1B2.html",
-      "author": "FWMK2RC6RS",
+      "title": "[正妹] 笑容可掬",
+      "url": "https://www.ptt.cc/bbs/Beauty/M.1788408415.A.AD7.html",
+      "author": "playerunknow",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 40,
-          "comment_count": 53,
-          "push_n": 40,
+          "time": "04:53",
+          "push_count": 23,
+          "comment_count": 30,
+          "push_n": 23,
           "boo_n": 0
         }
       ],
       "push_count_growth": 0,
-      "latest_push_count": 40,
+      "latest_push_count": 23,
       "top_comments": [
-        {
-          "type": "推",
-          "user": "YDSK",
-          "content": "沈甸甸"
-        },
-        {
-          "type": "推",
-          "user": "yohom1975",
-          "content": "讓我來"
-        },
-        {
-          "type": "推",
-          "user": "ommdack",
-          "content": "換一個人的L又是另外一種大小 奶的平行宇"
-        },
         {
           "type": "推",
           "user": "areett",
-          "content": "俄羅斯木村愛心？"
+          "content": "這超致命"
         },
         {
           "type": "推",
-          "user": "SA8699",
-          "content": "刺青直接end"
+          "user": "teddy355466",
+          "content": "謝謝 整個人都好了"
         },
         {
           "type": "推",
-          "user": "sam78530",
-          "content": "台規日規俄規L都沒摸過 無法與你分享"
-        },
-        {
-          "type": "推",
-          "user": "LoserLee",
-          "content": "天哪 乳暈超大"
-        },
-        {
-          "type": "推",
-          "user": "sakura104",
-          "content": "太誇張了啦"
-        },
-        {
-          "type": "推",
-          "user": "deach",
-          "content": "Gabbie Carter正多了"
-        },
-        {
-          "type": "推",
-          "user": "Khauf",
-          "content": "放開那櫻桃レロレロレロ"
-        },
-        {
-          "type": "推",
-          "user": "bingreen",
-          "content": "刺青pass"
-        },
-        {
-          "type": "推",
-          "user": "kof78225",
-          "content": "https://i.imgur.com/s3VOddi.gif"
-        },
-        {
-          "type": "推",
-          "user": "gg86300",
-          "content": "笑死，光乳暈就比AA的整顆大"
-        },
-        {
-          "type": "推",
-          "user": "nxuanr",
-          "content": "刺青噁噁"
-        },
-        {
-          "type": "推",
-          "user": "killrate",
-          "content": "教練我想打球…"
-        },
-        {
-          "type": "推",
-          "user": "BruceChen227",
-          "content": "HDO"
-        },
-        {
-          "type": "推",
-          "user": "jokepapago",
-          "content": "這個太戰鬥"
-        },
-        {
-          "type": "推",
-          "user": "abellea85209",
-          "content": "誇張了"
-        },
-        {
-          "type": "推",
-          "user": "chanowei",
-          "content": "這個猛"
-        },
-        {
-          "type": "推",
-          "user": "amacus",
-          "content": "窒息了"
-        }
-      ],
-      "content": "IG:https://www.instagram.com/kochanius.vibe/reels/\n------------------------------\n有點強化版的Gabbie Carter的感覺\nhttps://i.meee.com.tw/YSDpDoo.jpg\nhttps://i.meee.com.tw/mGZ2sw4.gif\nhttps://i.meee.com.tw/6EWajYA.jpg\nhttps://i.meee.com.tw/XuJ4NlA.jpg\nhttps://i.meee.com.tw/YF4gnyl.jpg\nhttps://i.meee.com.tw/deWiLO8.jpg\nhttps://i.meee.com.tw/Cnxytvq.jpg\nhttps://i.meee.com.tw/lBJyMSb.jpg\nhttps://i.meee.com.tw/OBsGdyG.jpg\nhttps://i.meee.com.tw/mIq7DV6.jpg\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 111.246.197.112 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Beauty/M.1788321767.A.1B2.html"
-    },
-    {
-      "board": "Beauty",
-      "title": "[正妹] 禹洙漢 渡假",
-      "url": "https://www.ptt.cc/bbs/Beauty/M.1788281436.A.814.html",
-      "author": "ashinly1021",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 28,
-          "comment_count": 55,
-          "push_n": 33,
-          "boo_n": 5
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 28,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "bread220",
-          "content": "但胸部做太大了"
-        },
-        {
-          "type": "推",
-          "user": "zxc62198644",
-          "content": "塑但大"
-        },
-        {
-          "type": "推",
-          "user": "aa01081008tw",
-          "content": "跳起舞來太KG了..做太大太硬"
-        },
-        {
-          "type": "推",
-          "user": "er520230",
-          "content": "身材比例超怪"
-        },
-        {
-          "type": "推",
-          "user": "peter5140",
-          "content": "他個人的YT有一集有說他有整臉，很大方"
-        },
-        {
-          "type": "推",
-          "user": "bio5chris",
-          "content": "⊙ω⊙"
-        },
-        {
-          "type": "推",
-          "user": "yushenglu",
-          "content": "醫生技術不錯"
-        },
-        {
-          "type": "推",
-          "user": "sa13961387",
-          "content": "太瘦了"
-        },
-        {
-          "type": "推",
-          "user": "ftLeggo",
-          "content": "她笑起來真的很好看，太瘦這方面的話，只"
-        },
-        {
-          "type": "推",
-          "user": "deltarobot",
-          "content": "他素顏真的跟化妝差很多"
-        },
-        {
-          "type": "推",
-          "user": "jovenica",
-          "content": "做太大了"
-        },
-        {
-          "type": "推",
-          "user": "afa76",
-          "content": "整太大了反而不好看"
-        },
-        {
-          "type": "推",
-          "user": "lishiter",
-          "content": "以前漂亮多了可惜"
-        },
-        {
-          "type": "推",
-          "user": "hyperfrog",
-          "content": "做的蠻不自然的"
-        },
-        {
-          "type": "推",
-          "user": "LenardLee",
-          "content": "她現在太瘦很難看  以前好很多"
-        },
-        {
-          "type": "推",
-          "user": "bigair888",
-          "content": "太瘦啦"
-        },
-        {
-          "type": "推",
-          "user": "abellea85209",
-          "content": "科技的力量"
-        },
-        {
-          "type": "推",
-          "user": "roger000123",
-          "content": "推推推"
-        },
-        {
-          "type": "推",
-          "user": "Ethierz",
-          "content": "腰身好看，但穿著真的好醜"
-        },
-        {
-          "type": "推",
-          "user": "darwincell",
-          "content": "超水的"
-        }
-      ],
-      "content": "https://i.mopix.cc/IkOawo.jpg\nhttps://i.mopix.cc/vLUFdX.jpg\nhttps://i.mopix.cc/9lxPje.jpg\nhttps://i.mopix.cc/6Mnc5D.jpg\nhttps://i.mopix.cc/jREYVo.jpg\nhttps://i.mopix.cc/Ho81Zv.jpg\nhttps://i.mopix.cc/3zQVmd.jpg\nhttps://i.mopix.cc/1FA7wX.jpg\nhttps://i.mopix.cc/B8xYpW.jpg\nhttps://i.mopix.cc/7mRQQT.jpg\nhttps://i.mopix.cc/F2VHs4.jpg\nhttps://i.mopix.cc/SWtuBr.jpg\n\nhttps://www.instagram.com/p/Dcu1Or1ATqU/\n\n我覺得素顏還真的蠻不錯的！\n\n有人傳她自己承認是做出來的，\n可是找了半天也沒找到相關影片新聞，\n照片裡面的型現在衣服幾乎撐得出來模樣，\n以前的照片我看也不是沒有的那種，\n所以有人可以找出她承認的那個影片嗎想看？\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.215.50.30 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Beauty/M.1788281436.A.814.html\n※ 編輯: ashinly1021 (49.215.50.30 臺灣), 09/02/2026 02:09:16"
-    },
-    {
-      "board": "Beauty",
-      "title": "[正妹] 台灣人妻在香港",
-      "url": "https://www.ptt.cc/bbs/Beauty/M.1788343445.A.334.html",
-      "author": "Arschloch",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 25,
-          "comment_count": 36,
-          "push_n": 28,
-          "boo_n": 3
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 25,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "sunflow627",
-          "content": "這個好"
+          "user": "bluejrl",
+          "content": "驚阿"
         },
         {
           "type": "推",
           "user": "Toy17",
-          "content": "曹家軍集合"
+          "content": "最為致命 我好了我也沒了"
         },
         {
           "type": "推",
-          "user": "fox0315",
-          "content": "曹家軍暴動中"
-        },
-        {
-          "type": "推",
-          "user": "stark5566",
-          "content": "正"
-        },
-        {
-          "type": "推",
-          "user": "TopGun2",
-          "content": "空姐"
-        },
-        {
-          "type": "推",
-          "user": "dowbane",
-          "content": "原來是那位台籍人妻"
-        },
-        {
-          "type": "推",
-          "user": "Krishna",
-          "content": "誇張身材，這十幾頭身？"
-        },
-        {
-          "type": "推",
-          "user": "openbook13",
-          "content": "https://i.mopix.cc/5y04AS.jpg"
-        },
-        {
-          "type": "推",
-          "user": "tamataco",
-          "content": "今日我姓曹"
-        },
-        {
-          "type": "推",
-          "user": "ferrari293",
-          "content": "身材真好"
+          "user": "shengkao",
+          "content": "我就是進來看圖文不符的"
         },
         {
           "type": "推",
           "user": "sakura104",
-          "content": "好讚"
+          "content": "看了心情都好了 :DDDDD"
         },
         {
           "type": "推",
-          "user": "BigHurt",
-          "content": "優質"
+          "user": "stark5566",
+          "content": "大大大"
         },
         {
           "type": "推",
-          "user": "a2006003",
-          "content": "好讚"
+          "user": "hjgx",
+          "content": "就大奶普妹 哭笑都沒差"
         },
         {
           "type": "推",
-          "user": "zxc62198644",
-          "content": "讚"
+          "user": "ahoo122002",
+          "content": "真好看"
         },
         {
           "type": "推",
-          "user": "meta41110",
-          "content": "嫁去香港嗎0.0？？"
+          "user": "LukaSamanic",
+          "content": "好大的笑容"
         },
         {
           "type": "推",
-          "user": "popptt",
-          "content": "讚讚讚"
+          "user": "holdmyass",
+          "content": "致命"
         },
         {
           "type": "推",
-          "user": "andywang3168",
-          "content": "我姓曹"
+          "user": "iso90024",
+          "content": "讓我想起阿標"
         },
         {
           "type": "推",
-          "user": "ggyypp616",
-          "content": "給港仔吃這麼好"
-        },
-        {
-          "type": "推",
-          "user": "bingreen",
-          "content": "超正！"
-        },
-        {
-          "type": "推",
-          "user": "r123845986",
-          "content": "等開門"
-        }
-      ],
-      "content": "https://i.urusai.cc/syRlu.jpeg\nhttps://i.urusai.cc/a2v5w.jpeg\nhttps://i.urusai.cc/E8AzH.jpeg\nhttps://i.urusai.cc/vlDSk.jpeg\nhttps://i.urusai.cc/gJiPV.jpeg\nhttps://i.urusai.cc/1jLtE.jpeg\nhttps://i.urusai.cc/klcr7.jpeg\nhttps://i.urusai.cc/wBa0N.jpeg\nhttps://i.urusai.cc/p5njq.jpeg\nhttps://i.urusai.cc/WwLel.jpeg\nhttps://i.urusai.cc/bNge4.jpeg\nhttps://i.urusai.cc/b6NQe.jpeg\nhttps://i.urusai.cc/0RLwr.jpeg\nhttps://i.urusai.cc/I3Ag2.jpeg\nhttps://i.urusai.cc/dq5NO.jpeg\nhttps://i.urusai.cc/5OJgx.jpeg\nhttps://i.urusai.cc/aRlq6.jpeg\nhttps://i.urusai.cc/5PBzt.jpeg\nhttps://i.urusai.cc/f0F0M.jpeg\nhttps://i.urusai.cc/dhMIX.jpeg\nhttps://i.urusai.cc/AmwCa.gif\nhttps://i.urusai.cc/5WrUM.jpeg\nhttps://l.urusai.cc/Clpfy.jpeg\nhttps://l.urusai.cc/ZTCQQ.jpeg\nhttps://l.urusai.cc/oXFC7.jpeg\nhttps://i.urusai.cc/dFBUy.jpeg\nhttps://i.urusai.cc/Enp1s.jpeg\nhttps://i.urusai.cc/bUEJw.jpeg\nhttps://i.urusai.cc/u0y6R.jpeg\nhttps://i.urusai.cc/DS8DW.jpeg\nhttps://i.urusai.cc/t6DeB.jpeg\nhttps://i.urusai.cc/aoR3O.jpeg\nhttps://i.urusai.cc/sckje.jpeg\nhttps://i.urusai.cc/YZLda.jpeg\nhttps://i.urusai.cc/UGRxq.jpeg\nhttps://i.urusai.cc/y90MY.jpeg\nhttps://i.urusai.cc/vfo5s.jpeg\nhttps://i.urusai.cc/nQKRc.jpeg\nhttps://i.urusai.cc/dNR9z.jpeg\nhttps://i.urusai.cc/jcAgU.jpeg\nhttps://i.urusai.cc/0SvFt.jpeg\nhttps://i.urusai.cc/swgni.jpeg\nhttps://i.urusai.cc/rRfqL.jpeg\nhttps://i.urusai.cc/tziqF.jpeg\nhttps://www.threads.com/@loveccmy\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.140.80.130 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Beauty/M.1788343445.A"
-    },
-    {
-      "board": "Beauty",
-      "title": "[正妹] 莎蒂辛克",
-      "url": "https://www.ptt.cc/bbs/Beauty/M.1788322511.A.635.html",
-      "author": "yavakaka",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 20,
-          "comment_count": 26,
-          "push_n": 20,
-          "boo_n": 0
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 20,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "loveisth520",
-          "content": "演Max的時候還很普的感覺 怎麼突然"
-        },
-        {
-          "type": "推",
-          "user": "kof78225",
-          "content": "香"
-        },
-        {
-          "type": "推",
-          "user": "chiuwey",
-          "content": "Max後面幾季就很吸引人了"
-        },
-        {
-          "type": "推",
-          "user": "a235477919",
-          "content": "看不出來居然是小短腿"
-        },
-        {
-          "type": "推",
-          "user": "rlj0858",
-          "content": "比她正沒她小"
-        },
-        {
-          "type": "推",
-          "user": "drkkimo",
-          "content": "我推一百個"
-        },
-        {
-          "type": "推",
-          "user": "LeehomLee",
-          "content": "11後面大走鐘 還是Max後勢看漲"
-        },
-        {
-          "type": "推",
-          "user": "tommychiu",
-          "content": "11號沒走鐘吧 現實超正 是怪奇物語中"
-        },
-        {
-          "type": "推",
-          "user": "harryjimmyw",
-          "content": "太小"
-        },
-        {
-          "type": "推",
-          "user": "i8715",
-          "content": "11確實不行，Max讚讚"
-        },
-        {
-          "type": "推",
-          "user": "a1230215",
-          "content": "推 超美"
+          "user": "amare1015",
+          "content": "這奶子超級大"
         },
         {
           "type": "推",
           "user": "bio5chris",
-          "content": "愛她！！！"
+          "content": "https://i.meee.com.tw/gCp6VEp.gif"
         },
         {
           "type": "推",
-          "user": "ez910115",
-          "content": "可惜"
+          "user": "skyinwinter",
+          "content": "我想掬其他地方"
         },
         {
           "type": "推",
-          "user": "greyrose7",
-          "content": "Max登dua郎"
+          "user": "zhenglack",
+          "content": "有心就大"
         },
         {
           "type": "推",
-          "user": "Ayanami5566",
-          "content": "比面癱怪千代雅好看一百倍  真的不是"
+          "user": "xwindy88",
+          "content": "闊嘴"
         },
         {
           "type": "推",
-          "user": "gn01881106",
-          "content": "新一代的奇拉奈特莉，有氣質"
+          "user": "HaiirotoAo",
+          "content": "大増量"
         },
         {
           "type": "推",
-          "user": "ShaNe1993",
-          "content": "演技好 但完全不會想到也可以這麼正"
+          "user": "XALANX",
+          "content": "可掬可掬"
         },
         {
           "type": "推",
-          "user": "jovenica",
-          "content": "超正"
-        },
-        {
-          "type": "推",
-          "user": "AV771118",
-          "content": "在鏡頭魅力超好，蜘蛛人看戀愛了"
-        },
-        {
-          "type": "推",
-          "user": "sallyna123",
-          "content": "小奶怪"
+          "user": "DownGrade",
+          "content": "第一張衝擊！"
         }
       ],
-      "content": "https://i.urusai.cc/4Jr0U.gif\nhttps://i.urusai.cc/D4gZ3.jpeg\nhttps://i.urusai.cc/jQdBb.jpeg\nhttps://i.urusai.cc/qKrhR.jpeg\nhttps://i.urusai.cc/Kx7Nl.jpeg\nhttps://i.urusai.cc/mstec.jpeg\nhttps://i.urusai.cc/QWilq.jpeg\nhttps://i.urusai.cc/fXP2T.jpeg\nhttps://i.urusai.cc/C7nF2.jpeg\nhttps://i.urusai.cc/37RsW.jpeg\nhttps://i.urusai.cc/eanpr.jpeg\nhttps://i.urusai.cc/I4TOu.jpeg\nhttps://i.urusai.cc/rB8AN.jpeg\nhttps://i.urusai.cc/tqOnu.jpeg\nhttps://i.urusai.cc/dG38c.jpeg\nhttps://i.urusai.cc/5ZmAD.jpeg\nhttps://i.urusai.cc/RGexH.jpeg\nhttps://i.urusai.cc/5eQV7.jpeg\nhttps://i.urusai.cc/ZTERf.jpeg\nhttps://i.urusai.cc/OxFiE.jpeg\nhttps://i.urusai.cc/1iUZP.jpeg\nhttps://i.urusai.cc/7niCY.jpeg\nhttps://i.urusai.cc/x6Orq.jpeg\nhttps://i.urusai.cc/pLGbr.jpeg\nhttps://i.urusai.cc/NEv5r.jpeg\nhttps://l.urusai.cc/D8D5o.jpeg\nhttps://i.urusai.cc/CZGxd.gif\nhttps://i.urusai.cc/LBgWm.gif\nhttps://i.urusai.cc/SjWRl.gif\nhttps://i.urusai.cc/HWoD1.gif\nhttps://i.urusai.cc/lBjsZ.gif\nhttps://i.urusai.cc/2yRbw.gif\nhttps://i.urusai.cc/fbD1s.gif\nhttps://i.urusai.cc/5uMrM.gif\nhttps://i.urusai.cc/ZO02i.gif\n\n--\nhttps://i.meee.com.tw/5jNULBA.gif https://i.meee.com.tw/KBTvrWK.gif\nhttps://i.meee.com.tw/RVVKEsr.gif https://i.imgur.com/fqAaM4g.gif\nhttps://i.meee.com.tw/7eJ7CWK.gif https://i.meee.com.tw/B8Mptax.gif\nhttps://i.meee.com.tw/Yo8a0tT.gif https://i.meee.com.tw/uM4LfhG.jpeg\nhttps://i.meee.com.tw/GVWEny7.jpeg https://i.meee.com.tw/b0jPooc.jpg\nhttps://i.meee.com.tw/tFmU2tY.jpg https://i.meee.com.tw/HBHzWWS.jpeg\n\n--\n※ 發信站: 批"
-    },
-    {
-      "board": "home-sale",
-      "title": "[閒聊] 低樓層房子的客群？",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788335568.A.926.html",
-      "author": "humbler",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 100,
-          "comment_count": 237,
-          "push_n": 106,
-          "boo_n": 2
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 100,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "kcy05785",
-          "content": "便宜、安全"
-        },
-        {
-          "type": "推",
-          "user": "heyp",
-          "content": "長輩認知 地震晃的小 = 安全(心裡)"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "非2樓不買？ 有這種人？"
-        },
-        {
-          "type": "推",
-          "user": "SkyFee",
-          "content": "便宜"
-        },
-        {
-          "type": "推",
-          "user": "seuil",
-          "content": "便宜 投資客最愛"
-        },
-        {
-          "type": "推",
-          "user": "hugog",
-          "content": "便宜"
-        },
-        {
-          "type": "推",
-          "user": "kcy05785",
-          "content": "說便宜老實講也還好，差幾十萬而已"
-        },
-        {
-          "type": "推",
-          "user": "abc5555990",
-          "content": "便宜 怕高 大概就這兩樣"
-        },
-        {
-          "type": "推",
-          "user": "p20770299",
-          "content": "真的有怕地震的"
-        },
-        {
-          "type": "推",
-          "user": "richcity",
-          "content": "一樓非住家時，二樓就不用擔心吵到樓下"
-        },
-        {
-          "type": "推",
-          "user": "PaulOneil1",
-          "content": "有些人真的是怕高怕地震，但大多數是預算考量"
-        },
-        {
-          "type": "推",
-          "user": "jinso7410",
-          "content": "有冷熱交換 低樓層應該是沒差"
-        },
-        {
-          "type": "推",
-          "user": "aass5566",
-          "content": "之前是6～8樓黃金樓層 現在好像變成越高越好了？"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "其實6.8還是很搶手啊"
-        },
-        {
-          "type": "推",
-          "user": "eknbz",
-          "content": "8應該還是很搶手吧"
-        },
-        {
-          "type": "推",
-          "user": "dati",
-          "content": "便宜治百病"
-        },
-        {
-          "type": "推",
-          "user": "frank111",
-          "content": "停電爬樓梯的理由太蠢，社區大樓都標配發電機，根本不怕"
-        },
-        {
-          "type": "推",
-          "user": "grace520909",
-          "content": "面公園，樹梢戶"
-        },
-        {
-          "type": "推",
-          "user": "snoopyboy123",
-          "content": "懼高症…"
-        },
-        {
-          "type": "推",
-          "user": "kutkin",
-          "content": "便宜"
-        }
-      ],
-      "content": "同場高樓層比較受歡迎\n有些人怕吵\n還是指定要買頂樓\n但有些人就是愛低樓層\n非二樓不買\n或是堅持4樓以下\n有原因嗎？\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 39.15.99.166 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788335568.A.926.html"
-    },
-    {
-      "board": "home-sale",
-      "title": "[閒聊] 板橋贏內湖？",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788355944.A.E16.html",
-      "author": "Jadechen",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 82,
-          "comment_count": 698,
-          "push_n": 84,
-          "boo_n": 2
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 82,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "kutkin",
-          "content": "沒有意外吧，內湖交通。"
-        },
-        {
-          "type": "推",
-          "user": "blargelp",
-          "content": "研華也從內湖遷到A8"
-        },
-        {
-          "type": "推",
-          "user": "qoo456alex",
-          "content": "緯創緯穎會搬到內湖"
-        },
-        {
-          "type": "推",
-          "user": "LarMien",
-          "content": "板橋機能這麼完整，內湖？"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "南港辦公大樓這20年一直蓋 從南軟一直蓋到昆陽 還在蓋 很多"
-        },
-        {
-          "type": "推",
-          "user": "NodeWay",
-          "content": "指標外商NV的遷徙剛好代表了北市產業的轉移趨勢"
-        },
-        {
-          "type": "推",
-          "user": "autoexecbat",
-          "content": "板橋會贏啊 內湖沒有腹地了 台北西邊必較多大規模開"
-        },
-        {
-          "type": "推",
-          "user": "kusomanfcu",
-          "content": "棕線座椅全拔就有解了"
-        },
-        {
-          "type": "推",
-          "user": "kusomanfcu",
-          "content": "JFK機場捷運也沒啥座位"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "板橋要取代內湖沒那麼容易啦 亞東那邊還是偏一點點"
-        },
-        {
-          "type": "推",
-          "user": "kusomanfcu",
-          "content": "不是阿 反指標們別來喊差啊 很麻煩耶"
-        },
-        {
-          "type": "推",
-          "user": "NodeWay",
-          "content": "內湖早期一堆博弈 跟幾個低薪系統廠 後來有小升級"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "但未來要吸引人才 畢竟西面的人口多 包括桃園在內 通勤位置"
-        },
-        {
-          "type": "推",
-          "user": "NodeWay",
-          "content": "等星艦落地再來哭就太遲了 現在就是內湖高點 北士科低點"
-        },
-        {
-          "type": "推",
-          "user": "kk1234",
-          "content": "中山區松山區中正區 哭哭 沒有錢人 XD"
-        },
-        {
-          "type": "推",
-          "user": "kk1234",
-          "content": "中山區大直也哭哭 XD"
-        },
-        {
-          "type": "推",
-          "user": "NodeWay",
-          "content": "人家主題是科技業 歪到哪裡有錢人多 也是很好笑"
-        },
-        {
-          "type": "推",
-          "user": "chouvincent",
-          "content": "內湖一堆藝人 小朋友雙語補習班都碰得到"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "但無論南港或內湖 因爲腹地受限 很難再擴展了 人才基本上還"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "台北市門牌 社子島也是啊 有些地方可以立於很難敗之地 但內"
-        }
-      ],
-      "content": "NV搬離內湖，仁寶未來也會搬離內湖，不知道還有哪些科技業會搬離內科到南港或是北市\n科。\n\n樂居的區域解析好像也是朝著板橋未來會贏過內湖。\n\n板橋有人數優勢，未來有更多的商場辦，  感覺新成屋或預售屋的開價已經比內湖一些地\n方還高，大家覺得未來會屌打內湖嗎\n\nhttps://youtu.be/WWb_B-CHKUc?si=SCHO4QS3rEowc6-N\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 162.120.248.88 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788355944.A.E16.html"
-    },
-    {
-      "board": "home-sale",
-      "title": "[情報] 好房網8月房價指數",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788316859.A.31E.html",
-      "author": "dnol",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 72,
-          "comment_count": 176,
-          "push_n": 76,
-          "boo_n": 4
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 72,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "panzerbug",
-          "content": "大反攻！"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "才想說為什麼傻多沒來追捧？最後逃命波了"
-        },
-        {
-          "type": "推",
-          "user": "jonson",
-          "content": "在統計上都只能算沒意義的波動罷了"
-        },
-        {
-          "type": "推",
-          "user": "jackred",
-          "content": "中古屋就是有折舊，一年抓1.5%吧，10年就15%"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "阿北賣老房沒跟你折舊的 還翻好幾倍賣的"
-        },
-        {
-          "type": "推",
-          "user": "vict1",
-          "content": "我怎麼看不出來中古屋有折舊  整天只有加價賣"
-        },
-        {
-          "type": "推",
-          "user": "panzerbug",
-          "content": "土地價值、通貨膨脹，新北老公寓當初蓋的時候旁邊有些"
-        },
-        {
-          "type": "推",
-          "user": "bearma0613",
-          "content": "其實股市賺再多 最終還是要買自住房"
-        },
-        {
-          "type": "推",
-          "user": "jinso7410",
-          "content": "1.5%差不多 帥過頭公式："
-        },
-        {
-          "type": "推",
-          "user": "vict1",
-          "content": "你們說的跟新屋比的價差 可是我還是看不出來折舊下跌的價格"
-        },
-        {
-          "type": "推",
-          "user": "jinso7410",
-          "content": "折舊就是跟新屋價格比，跟自己比就是噴"
-        },
-        {
-          "type": "推",
-          "user": "panzerbug",
-          "content": "基本薪資近10年均漲幅近4趴，再10年大概就要300了，有"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "講折舊的 可以先試著套用在自己老家 想想自己老家以後如"
-        },
-        {
-          "type": "推",
-          "user": "LinChinHoung",
-          "content": "這好像沒排除預售完工交屋？"
-        },
-        {
-          "type": "推",
-          "user": "LinChinHoung",
-          "content": "不同單位的數據差異很大，實在看不太懂…"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "阿北賣老房沒跟你折舊的 還翻好幾倍賣的 <—幾倍哪來的？"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "公園阿北何其多 你是哪位阿北？ 自己對號入座？"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "人啊 敢說就敢當 龜縮個什麼"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "阿北考量通膨與機會成本  賣房賣市價 怎麼了嗎？"
-        },
-        {
-          "type": "推",
-          "user": "F1239810",
-          "content": "一個月漲1%..一年也有至少12%還可以。"
-        }
-      ],
-      "content": "好房網 重點縣市成交漲跌排行\nhttps://price.housefun.com.tw/%e8%a1%8c%e6%83%85%e8%b3%87%e8%a8%8a\n點選 ->區域實價登錄趨勢\n\n2026\n8月\n台北市 85.2 萬/坪 ↑ 2.2%\n新竹市 36.4 萬/坪 ↑ 1.7%\n桃園市 30.2 萬/坪 ↑ 1.3%\n台南市 24.5 萬/坪 ↑ 1.2%\n高雄市 25.9 萬/坪 ↑ 0.8%\n台中市 30.5 萬/坪    0.0%\n新北市 44.7 萬/坪 ↓ -0.4%\n\n7月\n台南市 24.2 萬/坪 ↑ 2.1%\n桃園市 29.8 萬/坪 ↑ 1%\n高雄市 25.7 萬/坪 ↑ 0.8%\n台北市 83.4 萬/坪 ↑ 0.7%\n新北市 44.9 萬/坪 ↑ 0.4%\n台中市 30.5 萬/坪 ↓ -0.3%\n新竹市 35.8 萬/坪 ↓ -0.6%\n\n6月\n新竹市 36.0 萬/坪 ↑ 3.7%\n台北市 82.8 萬/坪 ↑ 0.5%\n高雄市 25.5 萬/坪 ↑ 0.4%\n桃園市 29.5 萬/坪    0.0%\n台中市 30.6 萬/坪    0.0%\n台南市 23.7 萬/坪 ↓ -0.4%\n新北市 44.7 萬/坪 ↓ -0.7%\n\n5月\n高雄市 25.4 萬/坪 ↑ 0.4%\n台北市 82.4 萬/坪 ↑ 0.1%\n台中市 30.6 萬/坪 ↓ -0.3%\n新北市 45.0 萬/坪 ↓ -0.4%\n新竹市 34.7 萬/坪 ↓ -0.6%\n桃園市 29.5 萬/坪 ↓ -0.7%\n台南市 23.8 萬/坪 ↓ -2.5%\n\n4月\n台北市 82.3 萬/坪 ↑ 0.9%\n台南市 24.4 萬/坪 ↑ 0.4%\n新北市 45.2 萬/坪 ↑ 0.2%\n台中市 30.7 萬/坪 ↓ -0.3%\n高雄市 25.3 萬/坪 ↓ -1.2%\n新竹市 34.9 萬/坪 ↓ -1.4%\n桃園市 29.7 萬/坪 ↓ -2.3%\n\n=====心得======\n\n除了新北，中古房價全面噴出。\n\n房版冷到沒人PO上漲的消息了?\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 211.21.176.170 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788316859.A.31E.html"
+      "content": "http://i.imgur.com/gV292h4.jpg\nhttp://i.imgur.com/K4VH6lB.jpg\nhttp://i.imgur.com/iXoC2Cm.jpg\nhttp://i.imgur.com/Sxoz0yy.jpg\nhttp://i.imgur.com/VD8VrmB.jpg\nhttp://i.imgur.com/UPKA1YC.jpg\nhttp://i.imgur.com/096p3yU.jpg\nhttp://i.imgur.com/7c01nFg.jpg\nhttp://i.imgur.com/I8Z628O.jpg\nhttp://i.imgur.com/CvnBV6F.jpg\nhttp://i.imgur.com/NDIk7FF.jpg\nhttp://i.imgur.com/Z3FZarY.jpg\nhttp://i.imgur.com/7Dn4BJs.jpg\nhttp://i.imgur.com/Y5mJciz.jpg\nhttp://i.imgur.com/taWkywU.jpg\nhttp://i.imgur.com/GiRa4jD.jpg\nhttp://i.imgur.com/m83pFlB.jpg\nhttp://i.imgur.com/pqq8dN8.jpg\nhttp://i.imgur.com/HbFF6z9.jpg\nhttp://i.imgur.com/Kg2MEOq.jpg\nhttp://i.imgur.com/NK4gfhf.jpg\nhttp://i.imgur.com/UDHJ4wF.jpg\nhttp://i.imgur.com/0jIAXSr.jpg\nhttp://i.imgur.com/GcmgYYF.jpg\nhttp://i.imgur.com/dn50TzH.jpg\nhttp://i.imgur.com/ukBF5kr.jpg\nhttp://i.imgur.com/8i22LHz.jpg\n\n-----\nSent from JPTT on my Samsung SM-A5560.\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 125.228.88.153 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Beauty/M.1788408415.A.AD7.html\n※ 編輯: playerunknow (125.228.88.153 臺灣), 09/03/2026 12:09:19\n※ 編輯: playerunknow (125.228.88.153 臺灣), 09/03/2026 13:47:28"
     },
     {
       "board": "home-sale",
@@ -1809,15 +1216,15 @@
       "author": "randyhwa",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 58,
-          "comment_count": 263,
-          "push_n": 71,
-          "boo_n": 13
+          "time": "04:53",
+          "push_count": 61,
+          "comment_count": 353,
+          "push_n": 101,
+          "boo_n": 42
         }
       ],
       "push_count_growth": 0,
-      "latest_push_count": 58,
+      "latest_push_count": 61,
       "top_comments": [
         {
           "type": "推",
@@ -1924,610 +1331,843 @@
     },
     {
       "board": "home-sale",
-      "title": "Re: [新聞] 陳其邁證實台積電將進駐白埔產業園區 建",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788331060.A.32E.html",
-      "author": "ceca",
+      "title": "[閒聊] 未來投資走向",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788405826.A.AA7.html",
+      "author": "mfcke",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 50,
-          "comment_count": 161,
-          "push_n": 53,
-          "boo_n": 2
+          "time": "04:53",
+          "push_count": 39,
+          "comment_count": 139,
+          "push_n": 40,
+          "boo_n": 0
         }
       ],
       "push_count_growth": 0,
-      "latest_push_count": 50,
+      "latest_push_count": 39,
       "top_comments": [
         {
           "type": "推",
-          "user": "kusomanfcu",
-          "content": "好長阿 靠北"
-        },
-        {
-          "type": "推",
-          "user": "jaricho",
-          "content": "平轉隔天公佈白埔..房版8zz 有梗"
-        },
-        {
-          "type": "推",
-          "user": "jinso7410",
-          "content": "岡山羊肉爐"
+          "user": "dati",
+          "content": "房屋年紀要考慮啦，這幾年維護老宅的成本越來越高~"
         },
         {
           "type": "推",
           "user": "kcy05785",
-          "content": "蠻好奇之後新左營那塊的定位。高火看來是確定要蓋"
+          "content": "第1批921法規蓋的今年應該才滿20，沒到25"
         },
         {
           "type": "推",
-          "user": "kcy05785",
-          "content": "各縣市的高鐵都是核心，就新左營這邊有點不溫不火"
-        },
-        {
-          "type": "推",
-          "user": "quiet93",
-          "content": "這麼多工作人口！！那哪裡的工作人口減少了？"
-        },
-        {
-          "type": "推",
-          "user": "eeantsky",
-          "content": "不要太常下雨跑步  會禿頭   真的!!"
-        },
-        {
-          "type": "推",
-          "user": "fireheart988",
-          "content": "南高雄：幫我QQ"
-        },
-        {
-          "type": "推",
-          "user": "quiet93",
-          "content": "你講的那些地方早就沒年輕人了，還給你吸幾萬人勒"
-        },
-        {
-          "type": "推",
-          "user": "soulknight",
-          "content": "推"
-        },
-        {
-          "type": "推",
-          "user": "eupa1973",
-          "content": "衝衝衝"
-        },
-        {
-          "type": "推",
-          "user": "Skydier",
-          "content": "哥哥是不是忘記當年還有喊過美光會去橋科cc"
-        },
-        {
-          "type": "推",
-          "user": "qscNERO",
-          "content": "推"
-        },
-        {
-          "type": "推",
-          "user": "GDSY",
-          "content": "想知道前陣子高大之森為什麼都可以成交5字頭以上，同樣小坪"
-        },
-        {
-          "type": "推",
-          "user": "s910211",
-          "content": "推"
-        },
-        {
-          "type": "推",
-          "user": "caprinade",
-          "content": "岡山羊肉爐那一間好吃啊？"
-        },
-        {
-          "type": "推",
-          "user": "floatfaith",
-          "content": "5分速也太強！C大推推"
-        },
-        {
-          "type": "推",
-          "user": "alex0973",
-          "content": "下雨天跑步小弟我真的不行XD"
-        },
-        {
-          "type": "推",
-          "user": "F1239810",
-          "content": "橋頭位在產業聚落的重點區域，開發腹地很大，一定會是"
-        },
-        {
-          "type": "推",
-          "user": "F1239810",
-          "content": "話說...我最近去問我橋頭房子的增貸，能貸的金額居然接"
-        }
-      ],
-      "content": "既然你們一直call我出來.那麼想聽.\n\n那就講一下..XD\n\n為啥當時不買岡山買橋頭.\n\n想當年岡山我媽也有透天,岡山我熟的很,90%的羊肉店我全都吃過他的羊肉米粉!!\n\n但不買岡山原因很多.\n\n最大有兩個原因.\n\n1.我買的時候他還是比高大和橋頭貴.\n\n2.重劃區腹地太小外,台積電之前他就已經蓋掉幾塊.所以燃料太少!!!\n\n那就算他吃到台積電,增值效應也會比較差.\n\n我們賺錢是要漲得比其他地方多,而不是看到漲價就開心!!\n\n---------------------------------------------------------\n地理位置大家畫一下.我昨天晚上好像在某個群組有聊天隨便圈一圈.\n\n基本上你把\"現在開始會增加工作人口\"的產業園區畫出來(既有的不要管她)\n\n是不是就.\n\n1.楠梓台積電\n\n2.白埔\n\n3.橋科.\n\n加起來會增加小幾萬個工作機會.\n\n然後會吸引3~5倍的人口,因為要包含其他周邊或是服務業或是相關行業和家人等.\n\n這也是為啥在以前,我不買國道十號以北...\n\n因為那時候這些產業園區都沒有,空蕩蕩的重劃區...XD\n\n而現在是突然冒出這麼龐大的新興產業園區.\n\n而且到現在進駐工作人口數量都還在很初期的初期!!\n\n然後你再把重劃區畫出來.\n\n為啥是重劃區.\n\n因為這種主力炒作一定是建商,其次是政府.\n\n你看過政府搭配建商炒老區域的嬤?..\n\n沒看台中烏日 水楠  屏東 嘉義 新竹\n\n哪一個建商搭配政府是在炒老區域的.\n\n反而最經典就是台中...XD\n\n從炒烏日轉移到炒水楠....政府和建商是不是一搭一唱...\n\n一個說開發建設計劃,一個炒作地價和房價.\n\n阿政府丟錢建設下去他怎樣回本.\n\n地方政府以前講過\"除了台北\",他有一半的錢要從不動產回本.\n\n不相信自己打開主計處的資料,一樣一樣的細項慢慢看.\n\n所以你懂得...\n\n那這邊比較有規模的重劃區是哪幾個.\n\n1.高大.\n\n2.橋頭新市鎮和未來三期.\n\n3.仁武\n\n4.桃子園.\n\n5.岡山大鵬九村.\n\n6.而左營高鐵空地還不少,所以也算在裡面....算是發展到中後期的重劃區.\n\n那好,第一的直覺.\n\n你再地圖上把產業園區和重劃區用不同顏色圈起來.\n\n然後你會買哪邊...XD\n\n-----------------------------------------------------\n再來一個很有趣的事情.\n\n為啥橋頭到現在還是一片空地.\n\n如果你有接觸到土地交易這一塊\n\n你應該知道.\n\n這邊土地一出來就被秒殺,除了極少數開天價那種.\n\n而政府自己這邊的土地也都養著不太招標.\n\n這個狀況很有趣,因為跟以前我不買國道十號,這邊是一片空地的狀況完全不一樣.\n\n那時候是沒人敢開發.\n\n而現在是....\n\n另外這邊原大地主是誰...恩..這個我點到就好,其它去看血觀音.\n\n不過很有趣的.\n\n高雄實驗中小學在哪?\n\n另外頂級私校康橋在哪?\n\n為啥在那邊??\n\n再加上為啥開發了新市鎮三期.\n\n我只能講,地方政府多事情不能做,都是中央才可以做的.\n\n但是...地方性開發麻....\n\n地方政府有很強的支配主導能力.\n\n而為啥這樣發展...這邊也是點到為止..XD\n\n所以呢.....\n\n為啥我一開始買橋頭原因不就很明朗.\n\n但是我應該在買了之後一兩個月內有說.\n\n橋頭新市鎮和高雄大學的價格不會拉開.\n\n至少在很大概率內,你們這些投資盤包含置產的,大多數人把房子賣掉前.\n\n不會拉多開...\n\n因此兩邊都是,哪邊便宜買哪邊...\n\n畢竟那時候橋頭價格衝得有點誇張....我都灰去了.\n\n你們偷"
-    },
-    {
-      "board": "home-sale",
-      "title": "[新聞] 表姊夫「全款買2000萬房」免上班！台積",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788311635.A.783.html",
-      "author": "cjol",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 41,
-          "comment_count": 236,
-          "push_n": 56,
-          "boo_n": 15
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 41,
-      "top_comments": [
-        {
-          "type": "推",
-          "user": "kutkin",
-          "content": "這些人為什麼這麼喜歡探人隱私"
-        },
-        {
-          "type": "推",
-          "user": "blargelp",
-          "content": "低能兒 人家拿到分紅置產 你拿到分紅出去玩，然後說別人"
-        },
-        {
-          "type": "推",
-          "user": "kutkin",
-          "content": "30幾歲如果拚一點應該能買了"
-        },
-        {
-          "type": "推",
-          "user": "kutkin",
-          "content": "兩個人存十年存不到嗎"
-        },
-        {
-          "type": "推",
-          "user": "jinso7410",
-          "content": "https://i.mopix.cc/wdJqxQ.jpg"
-        },
-        {
-          "type": "推",
-          "user": "abc5555990",
-          "content": "2000萬小錢也在計較"
+          "user": "a2828z33",
+          "content": "同意一樓，目前除非現金多到爆，不然都不建議買老屋來翻"
         },
         {
           "type": "推",
           "user": "flexin",
-          "content": "這什麼北七幻想文"
+          "content": "南部已死.."
         },
         {
           "type": "推",
-          "user": "blargelp",
-          "content": "其實不一定是幻想 這樣的人真的很多"
-        },
-        {
-          "type": "推",
-          "user": "jinso7410",
-          "content": "2000能全款的人應該不少，疫情後大家財富都爆增"
-        },
-        {
-          "type": "推",
-          "user": "kusomanfcu",
-          "content": "一年飛三次歐洲 不就每年少說花個40萬在歐洲？"
-        },
-        {
-          "type": "推",
-          "user": "aixiiae2005",
-          "content": "這就是人比人氣死人的最佳寫照"
+          "user": "a2828z33",
+          "content": "上面講的是針對一般平民老百姓的CP值最優分析"
         },
         {
           "type": "推",
           "user": "alexstag",
-          "content": "就幻想文嘰嘰叫 不知道寫這種文章目的在哪"
+          "content": "他的蛋白應該是新北那些重劃區…而不是你列出這些區塊"
         },
         {
           "type": "推",
-          "user": "prostar",
-          "content": "嫉妒真可怕"
+          "user": "KrisNYC",
+          "content": "推 實質需求遠大於供給 且每次講打房就跑去掐斷供給"
         },
         {
           "type": "推",
-          "user": "k798976869",
-          "content": "記者幻想文 台積電夫妻500+*2 哪會買不起2000萬房 羨"
+          "user": "KrisNYC",
+          "content": "其實大稻埕那邊已經有復甦了 大概2000~2015左右很破敗"
         },
         {
           "type": "推",
-          "user": "namkk",
-          "content": "竹科雙引擎在感慨2千萬，"
+          "user": "kusomanfcu",
+          "content": "歷史上台灣一直都是移民的"
         },
         {
           "type": "推",
-          "user": "jonson",
-          "content": "竹科雙引擎是靠血尿拼出來的，2000是躺著領的這都不懂"
+          "user": "zaqimon",
+          "content": "不是聽說連棟老公寓其實也很安全不容易倒"
         },
         {
           "type": "推",
-          "user": "sdhpipt",
-          "content": "低咖幻想文"
+          "user": "zaqimon",
+          "content": "老大樓外牆常會看到磁磚掉落甚至二樓插整排網子接磁磚"
         },
         {
           "type": "推",
-          "user": "iloveforix",
-          "content": "北七啦也能去台積電！乾～悲哀"
+          "user": "blargelp",
+          "content": "連排不會倒沒錯啊 超好笑蓋到防火巷不見 反爾支撐結構"
         },
         {
           "type": "推",
-          "user": "ruve",
-          "content": "20-35這段時間至少鮑魚還是很癢，那個程度比男性還強"
+          "user": "dophin332",
+          "content": "921我還記得那時候的新聞連棟也有倒一排的"
         },
         {
           "type": "推",
-          "user": "bud3058",
-          "content": "人家上一代或上上一代留下來的底蘊，看不慣覺得不公平，"
-        }
-      ],
-      "content": "作者: Teentop (Teentop) 看板: Gossiping\n標題: [新聞] 表姊夫「全款買2000萬房」免上班！台積\n時間: Tue Sep  1 16:30:15 2026\n\n表姊夫「全款買2000萬房」免上班！台積電情侶震驚：不想努力了\n\nhttps://cdn2.ettoday.net/images/8901/d8901558.jpg\n▲示意圖，與本文無關。（圖／ETtoday資料照）\n\nEttoday 記者周亭瑋／綜合報導\n一名任職於台積電的竹科女工程師發文透露，自己與男友雙薪優渥，各自買房且常出國旅遊\n，原本對經濟狀況相當自信；沒想到，得知表姊夫靠地主資產與被動收入，全款買下兩千萬\n房產贈予表姊後，她大受打擊，坦言「突然沒有動力上班」，而文章也引起熱議。\n\n台積電情侶一年飛三次歐洲！見表姊夫「全款買2000萬房」爆感慨\n\n網友在Dcard發文提到，自己與男友都是30多歲的台積電工程師，因薪水相當，平常習慣AA\n制，兩人前幾年已各自在新竹置產，平時偶爾購買精品，一年還會一起出國三次（含一次歐\n洲），原以為兩人經濟條件相當不錯；然而，她上次與頂大文組畢業的表姊聊天後，大受震\n驚。\n她透露，表姊婚後離職專心育兒，其夫家在台中精華區擁有土地與房產，婚後老公不僅贈與\n上千萬元，近日又全款購入兩千多萬元的房子登記在表姊名下。\n\n此外，表姊夫平時完全無需上班、能共同在家帶小孩，光是股票被動收入，一年就超過300\n萬元。這讓長期承受不小工作壓力的原PO心酸坦言，就算拿到大包分紅或去歐洲玩，也感到\n悶悶不樂，哀怨直呼「突然沒有動力上班了！」\n\n一代人想超越三代？網嘆：比較是痛苦根源\n對此，大票人直言，富二代與地主的資產累積，本就非普通受薪階級所能企及，勸原PO無須\n過度內耗，「在想什麼？地主那是幾代人的努力才有的成果，你一代人就想超越，那他家祖\n先都要氣哭了，但你現在開始賺，也許你下兩代也能成為地主」、「當然賺不贏，兩個人十\n年寒窗，怎麼抵得過別人家三代的資產累積」、「台灣好野人好野程度排序：大地主>商人>\n受薪階級」、「薪水再怎麼賺都跑不贏房價的漲幅，在以前經濟起飛的年代，先輩們有努力\n賺錢讓我們這代輕鬆，也要守住資產才能讓下一代延續下去」。\n\n而不少網友也直言，「比較是痛苦根源」、「我叔叔在信義區有店面，一個月租金就幾十萬\n，而且還不只一間，這要怎麼比」、「為什麼要跟別人比，比不贏又內耗」、「比上不足比\n下有餘，你已經過很爽了」、「我跟男友雙薪200+，家裡各自一房跟兩房，覺得知足了，頂\n多房子賣一間，放幾千萬給爸媽養老或自己的退休金，怎麼可能敢跟富二代比，在台灣光有\n房就差很多了」。\n\nhttps://www.ettoday.net/news/20260901/3229514.htm\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.14.5.198 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Gossiping/M.1788251417.A.653.html\n\n※ 發信站: 批踢踢實業坊(ptt.cc)\n※ 轉錄者: cjol (36.232.214.241 臺灣), 09/02/2026 09:13:54\n※ 編輯: cjol (36.232.214.241 臺灣), 09/02/2026 09:14:21"
-    },
-    {
-      "board": "home-sale",
-      "title": "Re: [閒聊] 現在買房的價值感變得很低落？",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788309206.A.776.html",
-      "author": "pptsuck",
-      "snapshots": [
-        {
-          "time": "04:51",
-          "push_count": 28,
-          "comment_count": 121,
-          "push_n": 30,
-          "boo_n": 2
-        }
-      ],
-      "push_count_growth": 0,
-      "latest_push_count": 28,
-      "top_comments": [
+          "user": "zaqimon",
+          "content": "老公寓防火巷空地通常都被一樓加蓋占滿吧"
+        },
         {
           "type": "推",
-          "user": "jonson",
-          "content": "哈哈 你名下不只一間房喔 哈哈哈哈"
+          "user": "kusomanfcu",
+          "content": "最近越來越無言 閩南魯蛇現在是 廢物 性變態 老阿姨"
+        },
+        {
+          "type": "推",
+          "user": "RaiGend0519",
+          "content": "蛋黃供給的確太少"
         },
         {
           "type": "推",
           "user": "namkk",
-          "content": "結論 租台北 不買房不買車"
+          "content": "桃園4天王是什麼呀？"
         },
         {
           "type": "推",
-          "user": "xfileman",
-          "content": "時代真的不同了，買房提供的是安全感而已，有人租"
+          "user": "F1239810",
+          "content": "道理我懂，所以我投資都買精華區小2房大樓。但....我自"
         },
         {
           "type": "推",
-          "user": "e2000",
-          "content": "把進幾年的AI潮複製到以前的台灣錢淹腳目時代，你真一輩子"
+          "user": "alonzohorse",
+          "content": "中路 小檜溪 藝文 經國？"
         },
         {
           "type": "推",
-          "user": "frank111",
-          "content": "這\"哈哈\"聽了好心酸阿，就像乞丐看到富人去餐廳吃飯"
-        },
-        {
-          "type": "推",
-          "user": "frank111",
-          "content": "買不起房的空空當然覺得買房CP值低阿，但買得起房的人"
-        },
-        {
-          "type": "推",
-          "user": "a951l753vin",
-          "content": "看你這麼認真該不會是反串"
-        },
-        {
-          "type": "推",
-          "user": "soulknight",
-          "content": "e2000大別氣，我現在都看那一些邏輯有缺失的空空。都"
-        },
-        {
-          "type": "推",
-          "user": "e2000",
-          "content": "我不會生氣啦，我都會把實際上的大眾碰上的實際情況去陳述"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "只能說想法不一樣，解決住得問題可以有好幾種，買"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "還有一個缺點，房貸通常利息是跟著利率走，台灣相"
-        },
-        {
-          "type": "推",
-          "user": "zpf2005",
-          "content": "蠻多講幹話的其實也不是租屋族，他們住老家 吃爸媽 不給"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "south說得沒錯喔，十年前我買三房車，房貸那時候是1"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "兩房車是出租28K*，修正一下"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "講完租金追上以前的房貸，接下來講房價漲幅，十年前"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "https://i.mopix.cc/2Ss2bk.jpg"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "看了真心酸 我18年前就不當房東了 那投資報酬真是搬不上檯"
-        },
-        {
-          "type": "推",
-          "user": "childeviler2",
-          "content": "阿伯可以分享新青安利率套利幾萬元啊"
-        },
-        {
-          "type": "推",
-          "user": "jl40",
-          "content": "套利就是套利 無風險 利潤不多 加減賺"
-        },
-        {
-          "type": "推",
-          "user": "quiet93",
-          "content": "2022年推出租補啊"
+          "user": "alexstag",
+          "content": "這邊只講投資啊，你喜歡住什麼是你自己的喜好，不太需"
         }
       ],
-      "content": "買房本來就很可悲啊\n\n同事買在台北市\n\n一坪聽說150萬？\n\n笑死有夠可憐\n\n而且還買坡平車位\n\n住台北根本不用車子好嗎？\n\n真的好傻\n\n現在大家看到他都在笑他\n\n‘昨天還有人直接當他面開玩笑\n\n‘’聽說你名下有房喔？哈哈‘’\n\n可以得出結論：低端才買房\n\n-----\nSent from JPTT on my Samsung SM-S9210.\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 101.10.166.221 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788309206.A.776.html"
+      "content": "一早看到那個烏克蘭都嫌貴新聞\n\n台灣是這樣 直觀會覺得 幹 房子怎麼這麼貴啊\n\n正確邏輯思路應該是 操你媽房子蓋太少了吧 沒得選啊\n\n底層核心就是這麼簡單\n\n台灣其實一直都是一個移民社會\n\n現在版本變成外勞PATCH\n\n人口的增減 社會移入一直是個重點\n\n當年我們小時候是大家生活刻苦 能扛 5個人擠25坪\n\n上下舖這東西  不知道新竹這些重劃區還看不看得到\n\n生活變好之後 每個人慾望 需要坪數急遽擴張\n\n不過我先省下一半的篇幅 也就是需求部分 當晚上閒聊錄音談資\n\n對 沒錯  台灣一直都是需求>>供給\n\n更可笑的是 目前走向是那我們來打供給 嘻嘻\n\n文字這邊我只想談供給\n\n十年前我在土木版第一篇文\n\nhttps://www.pttweb.cc/bbs/Civil/M.1469335607.A.D8A\n\n這十年 大概有收到5封+ 還好看到我陸續發文離開這垃圾產業\n\n最近這分紅 現在有跳來科技業的 應該更感激我?\n\n房地產 遠破小\n\n1.安全\n\n不能妥協就是安全  那就是921之後的屋子\n\n這也放寬25年屋齡了\n\n2.遠\n\n台灣一堆鄉鎮 根本 未來不能住人\n\n思考外勞 多元文化衝擊 醫療 交通安全 空汙 文教\n\n全台北市 新北重劃區 青埔 桃園區四天王 新竹東區 竹北 台中74\n\n往南部不討論 不熟\n\n其他垃圾我就不說惹\n\n3.空間\n\n這還好 最好妥協 所以市場最有感就是變小\n\n人性上 獨立自主空間的自由感>實際需要的活動空間\n\n所以最精華區 現在開始套房 STUDIO 幹掉餐廳節省空間\n\n以上1&2 內政部資料翻完 一定會有個基本認知 就是\n\n幹你娘 台灣為什麼房子蓋這麼少\n\n沒得到這認知\n\n基本上不是智商太低 就是意識形態掩蓋智商\n\n也是有一堆台清交電資 醫牙覺得房子很多 房價不合理啊 嘻嘻\n\n城鄉發展不均 這條算是遠這塊\n\n不過這邊額外提到是 某些區域 目前看起來可以\n\n但是未來十年二十年我看就是會 \"越來越爛\"\n\n因為會螺旋下殺\n\n優質人離開 外勞進去 開始啟動惡性循環\n\n但是專做這塊不動產 反而可能是藍海\n\n我不討論這塊 自行判斷\n\n政策來了之後\n\n市場一定調整\n\n慢慢人才就會流失  從現場工人 慢慢擴散到上面工程師 最後是開發的資本家\n\n而且一旦走到這步 就又是另一個供給的惡性循環 更沒人沒錢  更冷 更缺\n\n缺貨潮CC\n\n低調  我這輩子沒看過不動產會有缺貨潮  實在期待\n\n如果要給結論啦\n\n最精華區買套房到權狀25的1.5房\n\n外圍就25~50權狀大小的房\n\n位置>年紀  大小先不管惹 反正空間最好妥協\n\n以上\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 1.164.66.82 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788405826.A.AA7.html"
     },
     {
       "board": "home-sale",
-      "title": "[新聞] 打房市投機 產業恐也被打到癱瘓",
-      "url": "https://www.ptt.cc/bbs/home-sale/M.1788319542.A.5BC.html",
+      "title": "[閒聊] 樓高超過多少 會覺得不便？",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788448702.A.0A7.html",
       "author": "jl40",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 24,
-          "comment_count": 96,
-          "push_n": 27,
-          "boo_n": 3
+          "time": "04:53",
+          "push_count": 36,
+          "comment_count": 100,
+          "push_n": 36,
+          "boo_n": 0
         }
       ],
       "push_count_growth": 0,
-      "latest_push_count": 24,
+      "latest_push_count": 36,
       "top_comments": [
         {
           "type": "推",
-          "user": "Tosca",
-          "content": "崑山自己應該要先擔心能不能再撐二十年"
-        },
-        {
-          "type": "推",
-          "user": "kcy05785",
-          "content": "爽！"
-        },
-        {
-          "type": "推",
-          "user": "kcy05785",
-          "content": "呆丸的外勞制度很有意思，竟然要繳薪資2成左右的就安費"
-        },
-        {
-          "type": "推",
-          "user": "andy50814",
-          "content": "趕快推外勞安比較實際"
-        },
-        {
-          "type": "推",
-          "user": "joelay",
-          "content": "崑山很適合轉型水上樂園"
-        },
-        {
-          "type": "推",
-          "user": "aaboutt",
-          "content": "不用等20年，十年後就人人有公立大學唸了。十年後，現在"
-        },
-        {
-          "type": "推",
-          "user": "aaboutt",
-          "content": "後段私立大學要開始準備轉型了，水上樂園、外勞培育所、"
+          "user": "comi0530",
+          "content": "我高樓層  旁邊沒其他棟擋  你說的全對"
         },
         {
           "type": "推",
           "user": "jaricho",
-          "content": "倒掉的校區拿來改做安養院  也是一條路"
+          "content": "窗戶是YKK ap的 這不是很基本嗎"
         },
         {
           "type": "推",
-          "user": "jo78jo78",
-          "content": "崑山科大要去賣水上摩托車啊"
+          "user": "aloness",
+          "content": "越高風越大是真的，建物算風阻系數就是這樣，不過不是直"
         },
         {
           "type": "推",
-          "user": "zerobx",
-          "content": "爽撈的時候安靜撈 撈不到就趕快生氣靠背"
+          "user": "aloness",
+          "content": "最不便的應該是中繼水箱隔壁，泵浦半夜也是照轉"
         },
         {
           "type": "推",
-          "user": "keyneslan",
-          "content": "台灣是靠半導體賺錢, 其他產業可廢除"
+          "user": "aloness",
+          "content": "然後就…有東西忘在車裡，會更懶得下去拿"
         },
         {
           "type": "推",
-          "user": "ahg",
-          "content": "又在哭"
+          "user": "swicer",
+          "content": "之前看29F 走出陽台我擔心被吹走 體感15-20比較剛好"
+        },
+        {
+          "type": "推",
+          "user": "dhm520",
+          "content": "住二十樓反而會有車聲！？"
+        },
+        {
+          "type": "推",
+          "user": "kcy05785",
+          "content": "實際上是14樓。"
+        },
+        {
+          "type": "推",
+          "user": "showlive0214",
+          "content": "住20樓以上，沒什麼不方便的啊"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "高樓竟然更吵？！！"
+        },
+        {
+          "type": "推",
+          "user": "jinso7410",
+          "content": "強化玻璃幹下去 哪有什麼聲音"
+        },
+        {
+          "type": "推",
+          "user": "jonson",
+          "content": "住社宅高樓層每次坐樓梯犒唄久"
         },
         {
           "type": "推",
           "user": "physicsdk",
-          "content": "不是有人靠杯科技業賺太多一樣導致物價變貴 新竹非科"
+          "content": "5樓以下整天聽樓下低端吵鬧跟車聲很不方便"
         },
         {
           "type": "推",
-          "user": "a1280547",
-          "content": "買兩間到底是炒三小房?有人可以解釋一下這邏輯嗎"
+          "user": "csgod1325",
+          "content": "超過15樓就沒消防車了"
         },
         {
           "type": "推",
-          "user": "stpada",
-          "content": "應該要問買兩間房的人為啥不能多準備一成呢"
+          "user": "abc5555990",
+          "content": "選中樓層就好(一般6~9樓) 兼顧 地震和火災 的風險"
         },
         {
           "type": "推",
-          "user": "a1280547",
-          "content": "為什麼要?照這破邏輯 那幹嘛不準備9成?"
+          "user": "smartwhite",
+          "content": "沒高速電梯住20樓以上去地下室開車崩潰"
         },
         {
           "type": "推",
-          "user": "wisebani",
-          "content": "搞到現在只有有錢人跟窮人才買的起房子"
+          "user": "ssore",
+          "content": "這才知道原來高樓更吵！以前都沒注意到"
         },
         {
           "type": "推",
-          "user": "physicsdk",
-          "content": "央行那些當官的當然不只兩間房 但誰叫你出生得晚海換"
+          "user": "kutkin",
+          "content": "玻璃好用，採光無解"
         },
         {
           "type": "推",
-          "user": "Mazda6",
-          "content": "台灣有台積電就夠了 其他收一收去炒股"
+          "user": "cutbear123",
+          "content": "住20樓以上+1 還是會落塵 還是會有蟲"
         },
         {
           "type": "推",
-          "user": "nedbob",
-          "content": "台中豪宅線是四千萬，內文怎麼可能拿到六成貸款"
+          "user": "Heedictator",
+          "content": "長知識了，沒住過真的不知道原來高樓層更吵"
         }
       ],
-      "content": "https://reurl.cc/aEZOXD\n\n「1類高薪自住族群」重傷？打房市投機　產業恐也被打到癱瘓\n好房網News記者林和謙／台北報導\n\n這幾年來，內政部、央行與政府相關部會推出一連串房市政策，包括央行於2024年9月份\n祭出的第七波信制措施，已明顯讓房市大為降溫，但打投機炒作、維護金融穩定是該做，\n不過若讓房地產業與相關產業鏈「被打到癱瘓」，恐怕也不是好事。\n\n崑山科技大學最新研究報告顯示，因打炒房政策，讓住宅產業鏈相當低迷，高達七成多的\n相關企業業務或接案量減少、6成多實際工程或工作量減少，5成多的企業正式員工人數已\n經減少。中部房產業人士透露，房貸緊縮大大影響到正常的換屋需求民眾，甚至不少醫師\n族群也卡在「現金壓力」而不敢買房。\n\n央行第七波信用管制實施至今已將近兩年，崑山科大完成900份住宅產業鏈景氣調查，從2\n024年9月至今，4成都企業已經延後部分工程或投資計畫、35.8％直接取消部分工程或投\n資計畫，28.7％縮減部分營運或工程規模。\n\n一個建案踩煞車　就影響一整條產業鏈\n崑山科大研究表示，一個建案踩煞車，後面就是一整條產業鏈，投資一旦停下來，影響不\n會停在開發商；一個建案延後，後面的營造工程就跟著延後；工程減少，外包與工班需求\n下降；工程量下降，建材、設備與原物料採購也跟著減少。\n這也是房市與一般消費市場最大的不同；房地產背後連結營造、工程、建材、設備、裝潢\n與室內設計、水電、工班...等，以及大量專業服務，牽動的是一整條產業鏈。\n\n產業界理解，信用管制維護金融穩定、抑制投機的政策目的，也從未主張重新回到過度炒\n作的市場。房市可以降溫，但不能一路冷到投資；政策可以抑制炒作，但不能讓正常的產\n業信心一起被抑制；打炒房近兩年，產業界期待的不是全面鬆綁，而是更精準的政策檢討\n。\n\n中華民國工業總會也呼籲，對於在K型經濟弱勢端的部分傳統產業而言，房市降溫可能成\n為另一個疊加上去的壓力，傳統產業支撐著台灣大量的就業與家庭生計，若住宅相關產業\n鏈受創太重，將衝擊很多民眾的工作機會甚至整體經濟。\n\n工業總會建議，央行政策執行近兩年後，應該重新評估市場環境與產業承受能力，從全面\n性的信用管制，逐步走向分流、分級、精準管理；該打的投機繼續打，該防的金融風險繼\n續防；但是正常自住、合理建設、企業投資與實體產業需求，也應該保留必要的空間。同\n時，也期待政府建立跨部會的產業影響評估機制，把金融、住宅、產業與就業放在一起思\n考。\n\n實質換屋被打到　醫師也不敢買房\n雖然央行在今（2026）年3月份，已將第二戶房貸成數由五成調升為六成，但依舊讓許多\n換屋族不敢買房！大台中不動產開發公會理事長蕭成忠透露，我們在實務上，就遇到不少\n在中部執業的醫師族群，他們因家庭成員變多或工作調動而需要換屋，想要換大一點的大\n樓或透天，但台中不少透天新案總價動輒超過4千萬，就算第二戶貸款可以到六成，買方\n仍要拿出四成、大約要拿1,800萬到2千萬現金，醫師就算收入不錯，但要一下子拿出這麼\n多現金也有難度，導致他們縮手而不敢換屋。蕭成忠建議，政府與央行必須審慎考量實質\n的自住換屋剛需民眾，如果因政策而扼殺許多民眾的買房權益，何來居住正義？\n\n心得：\n昆山科大 有這學校？校董是建商嗎？\n都醫師了 還吵著借錢 這不丟了醫師的臉？\n假換房之名 行勒索之實\n先前過太舒服 現在就不甘平凡了\n房價指數還在創高不是嗎？在呼籠誰啊？\n一手做數據 一手哀兵政策 到底哪個是真的？\n醫師會自己想辦法的\n居住正義不是借給你更多錢\n是讓不是醫師的人不用借錢也買得起換得起\n\n這只是個開始......\n"
+      "content": "現在容積高的地方 動不動就20 30層蓋 我沒住超過20樓的 有次去朋友家22樓 去陽台風\n有點大 不過對面有同社區住宅 互擋著 也是大\n\n有些預售 會從高樓層賣 說低樓層賣完了 我是存疑啦\n\n查了一下AI 結果如下\n\n「隨著樓層增高，周邊遮蔽物減少，迎風面積變大，風速也會明顯加快。為什麼高樓風特\n別\n大？\n\n缺乏遮擋：高樓層周圍通常沒有其他差不多高度的建築物幫忙擋風。\n\n風切效應：當強風遇到大樓阻擋被迫加速流經縫隙或角落時，會產生強烈的風切聲與亂流\n。\n\n高樓風大的影響噪音干擾：強風吹過窗戶縫隙容易產生低頻轟鳴聲或尖銳的風切聲，尤其\n在颱風天或冬天東北季風強烈時特別明顯。\n\n體感溫度低：風大會加速散熱，因此冬天在高樓層會感覺比低樓層更冷。\n\n結構與外牆壓力：高樓層承受的風壓大，若窗戶氣密性不足或沒有使用等級較高的氣密窗\n與強化玻璃，容易產生震動或滲水。\n\n如果你正在考慮買高樓層或租屋，想了解如何應對風大的問題，我可以提供你關於：氣密\n窗與隔音玻璃的挑選建議如何檢查窗框防水與防風設計」\n\n就想問問有經驗的人 上面的哪些是真的\n可以分享一下會有哪些不便？\n要說爽的也行 但總有一兩個不便吧\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.220.65.15 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788448702.A.0A7.html\n※ 編輯: jl40 (61.220.65.15 臺灣), 09/03/2026 23:18:48\n※ 編輯: jl40 (61.220.65.15 臺灣), 09/03/2026 23:37:19"
     },
     {
-      "board": "Stock",
-      "title": "[閒聊] 2026/09/03 盤中閒聊",
-      "url": "https://www.ptt.cc/bbs/Stock/M.1788395404.A.E6C.html",
-      "author": "laptic",
+      "board": "home-sale",
+      "title": "[閒聊] 現在人買房是不是很看賣相",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788418981.A.A05.html",
+      "author": "kage01",
       "snapshots": [
         {
-          "time": "04:51",
-          "push_count": 100,
-          "comment_count": 1487,
-          "push_n": 973,
-          "boo_n": 101
-        },
-        {
-          "time": "04:51",
-          "push_count": 99,
-          "comment_count": 1487,
-          "push_n": 973,
-          "boo_n": 101
+          "time": "04:53",
+          "push_count": 33,
+          "comment_count": 103,
+          "push_n": 38,
+          "boo_n": 5
         }
       ],
-      "push_count_growth": -1,
-      "latest_push_count": 99,
+      "push_count_growth": 0,
+      "latest_push_count": 33,
       "top_comments": [
         {
           "type": "推",
-          "user": "c1951",
-          "content": "https://reurl.cc/EYVpmK  如何判斷市場過熱?"
+          "user": "jaricho",
+          "content": "41年 天花板橫樑鋼筋外露 爬樓梯健身 再住9年就超過50年"
         },
         {
           "type": "推",
-          "user": "davie11333",
-          "content": "早安大爆崩"
+          "user": "ntpuisbest",
+          "content": "室內24的話我買"
         },
         {
           "type": "推",
-          "user": "tinybunny",
-          "content": "https://imgur.com/mnmNEiz"
+          "user": "blargelp",
+          "content": "剛需版本啊 房地合一後廢墟改建玩的人就減少很多了"
         },
         {
           "type": "推",
-          "user": "beerson",
-          "content": "五萬五萬衝衝衝"
+          "user": "quiet93",
+          "content": "房子要怎樣住才能變成這樣？！"
         },
         {
           "type": "推",
-          "user": "kukukuma",
-          "content": "今天可以 噴噴叫了嗎？"
+          "user": "dophin332",
+          "content": "我買過這種  但五樓我不行  現在都要低樓層了吧"
         },
         {
           "type": "推",
-          "user": "takeda3234",
-          "content": "空蛙壽司"
+          "user": "bell1708",
+          "content": "預售屋&新成屋也是啊"
         },
         {
           "type": "推",
-          "user": "kent0405",
-          "content": "早安大家"
+          "user": "namkk",
+          "content": "春已走 花又落 用心良苦卻成空"
         },
         {
           "type": "推",
-          "user": "kidd085",
-          "content": "剛剛台達電是搓燈嗎 笑鼠"
+          "user": "jackred",
+          "content": "哈~仲介沒有先去打掃一下，以前都有幫屋主打掃的置入廣告"
         },
         {
           "type": "推",
-          "user": "sp03154",
-          "content": "我很好奇，台灣是誰要捐3000鎂"
+          "user": "F1239810",
+          "content": "這個已經很嚴重了，鋼筋斷裂脫落。要重新植鋼筋，這..."
         },
         {
           "type": "推",
-          "user": "EddieWuRJJ",
-          "content": "今天不妙"
+          "user": "ChikanDesu",
+          "content": "這種程度應該是住起來有危險那種 梯間應該慘不忍睹"
         },
         {
           "type": "推",
-          "user": "saihao",
-          "content": "外資小兒又要追高殺低自嘎了嗎？"
+          "user": "nosod",
+          "content": "台北市室裝許可多少錢，廢棄物清運多少錢你加上去了嗎"
         },
         {
           "type": "推",
-          "user": "showhere",
-          "content": "軍人節該不會是漲軍工？"
+          "user": "kutkin",
+          "content": "500萬板橋老破小公寓有呀"
         },
         {
           "type": "推",
-          "user": "Daniel0712",
-          "content": "夜盤假的"
+          "user": "Harlequin727",
+          "content": "出租過一次後了解 賣相真的重要…"
         },
         {
           "type": "推",
-          "user": "richardc277",
-          "content": "股事過熱。要回檔了"
+          "user": "SouthEast62",
+          "content": "這個大概只有做都更整合的人會買來放著，但是他們不"
         },
         {
           "type": "推",
-          "user": "fat90511",
-          "content": "開高走低收最低"
+          "user": "kutkin",
+          "content": "不是每次都找一些垃圾說人家為什麼不買"
         },
         {
           "type": "推",
-          "user": "heavenlyken",
-          "content": "老蘇：半導體廠展能救的了台股嗎？ 九月C波正式開始"
+          "user": "F1239810",
+          "content": "我不是泥作專業，但以我理工男的腦袋來看，舊水泥粉化"
         },
         {
           "type": "推",
-          "user": "fly0204",
-          "content": "早安大爆崩"
+          "user": "aaboutt",
+          "content": "自住都不敢了，不要黑心出租給別人"
         },
         {
           "type": "推",
-          "user": "jackgn",
-          "content": "早安大爆崩，大家睏飽數錢"
+          "user": "kusomanfcu",
+          "content": "海砂屋=都更 你們知道你們在說啥嗎"
         },
         {
           "type": "推",
-          "user": "fim",
-          "content": "外面的雨 是多蛙的眼淚"
+          "user": "naohcl",
+          "content": "那價格…….."
         },
         {
           "type": "推",
-          "user": "storyb181",
-          "content": "台股今天+1000點預備"
+          "user": "hellophoenix",
+          "content": "關鍵字「三重」你換成信義翻倍賣都秒殺"
         }
       ],
-      "content": "==================115/09/03台股資訊重點整理，供股民做投資參考=================\n台　股　46164.72　▼ 784    (-1.67%)　9183.93億\n台指09　46189   　▼1012    (-2.14%)　 45,800口\n盤後09　46336   　▲ 171    (+0.37%)　 34,180口\n\n台指期未平倉口數 自營商 +1,109 (+2,220) 投信 +75,062 (-965)\n                 外資 -85,329 (-5,039)\n台指選未平倉口數 自營商 +7,425 (-10,746) 投信 -4,603 (-2,904)\n                 外資 -3,718 (-5,627)\n\n日經 225　64325.64　▼1889.70 (-2.85%)\n首爾綜指　 6562.72　▼ 273.08 (-3.99%)\n\n道瓊工業　53061.95　▲295.07 (+0.56%)\n那斯達克　26217.83　▲118.06 (+0.45%)\n標普 500　 7666.60　▲ 53.13 (+0.46%)\n費城半導　11339.25　▲ 50.64 (+0.45%)\n==============================================================================\n\n資料來源：臺灣證券交易所、中央社\n\n--\n\n乾坤局布幾輸贏，黑白分明意未平；\n\n過客匆匆皆落子，憑欄笑看局中形。\n\n（此文經人工智慧輔寫）\nhttps://pbs.twimg.com/media/HRN11DUXAAAf6Kc.jpg\n\n作者：@shalink_\n\nhttps://i.meee.com.tw/QpK4GLZ.jpg\n\n--\n\n長亭外，古道邊，芳草碧連天。晚風拂柳笛聲殘，夕陽山外山。\n天之涯，地之角，知交半零落。一壺濁酒盡餘歡，今宵別夢寒。\n長亭外，古道邊，芳草碧連天。問君此去幾時還，來時莫徘徊。\n天之涯，地之角，知交半零落。人生難得是歡聚，惟有別離多。\n　　　　　　　　　　　　　　　　　　　　　　　　　　——【現代】李叔同《送別》\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.74.218.94 (馬來西亞)\n※ 文章網址: https://www.ptt.cc/bbs/Stock/M.1788395404.A.E6C.html"
+      "content": "如題 之前看到一間戰損風的房子 賣了很久 仲介還用心良苦用AI裝潢示意\n https://sale.591.com.tw/home/house/detail/2/20585631.html#detail-map\n\n 但它只要498 14.32坪 離捷運站287m 到台北也很快 室內或許更大\n 就算加300裝潢 可以裝到不錯\n 總共就798 798現在一般也買不到什麼東西\n 這價格應該很居住正義吧\n 還是說現在買方看到這樣貌 連看都不想看\n 或是5F現在完全滯銷了 以後真的出不掉\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.70.75.223 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788418981.A.A05.html"
+    },
+    {
+      "board": "home-sale",
+      "title": "[新聞] 生1胎就供「25坪2房」！謝龍介談政見：1",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788440324.A.550.html",
+      "author": "troy30408",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 32,
+          "comment_count": 74,
+          "push_n": 38,
+          "boo_n": 7
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 32,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "wang56",
+          "content": "要生的先忍一下，感覺很有機會通過"
+        },
+        {
+          "type": "推",
+          "user": "jaricho",
+          "content": "強調購屋者不需要準備自備款"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "新市安居中獎率100趴，你還不如搞生2個小孩免費住更快"
+        },
+        {
+          "type": "推",
+          "user": "kcy05785",
+          "content": "反正唬爛免錢"
+        },
+        {
+          "type": "推",
+          "user": "zpf2005",
+          "content": "市長四年，上任第一天就找地開搞，卸任前能完工入住嗎？"
+        },
+        {
+          "type": "推",
+          "user": "gaussjordan",
+          "content": "這人真是阿斗 這麼多能打的不打 整天在那做一任"
+        },
+        {
+          "type": "推",
+          "user": "yousking",
+          "content": "台南三歲自耕農這麼多，缺房子嗎？"
+        },
+        {
+          "type": "推",
+          "user": "jinso7410",
+          "content": "可能想說當選機率低隨便喊喊"
+        },
+        {
+          "type": "推",
+          "user": "fluffyradish",
+          "content": "南部地那麼多可以啦"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "上次喊建社宅的做到了？下一個喊生孩子送房子又信了"
+        },
+        {
+          "type": "推",
+          "user": "sfking",
+          "content": "基隆的GOGORO咧?"
+        },
+        {
+          "type": "推",
+          "user": "forfree99",
+          "content": "一坪不到15萬 但他沒說在台南市區，可能在布袋"
+        },
+        {
+          "type": "推",
+          "user": "eupa1973",
+          "content": "送電動機車都難了，龍介兄要不要另想辦法？"
+        },
+        {
+          "type": "推",
+          "user": "pz5202",
+          "content": "台南15萬、桃園20萬，這兩個縣市先不要買"
+        },
+        {
+          "type": "推",
+          "user": "kevinjl",
+          "content": "有房的人 會喜歡這個政見嗎? 有房的人票比較多"
+        },
+        {
+          "type": "推",
+          "user": "mcgrady12336",
+          "content": "趨勢已經告訴大家未來小孩是稀有財了啦"
+        },
+        {
+          "type": "推",
+          "user": "jimmy1688",
+          "content": "連署書都只會在家抄的傢伙，笑死人了"
+        },
+        {
+          "type": "推",
+          "user": "naohcl",
+          "content": "不是送吧 是低價買"
+        },
+        {
+          "type": "推",
+          "user": "azurbbb",
+          "content": "不是在山上就是在海邊啊 我也會喊"
+        },
+        {
+          "type": "推",
+          "user": "HiuAnOP",
+          "content": "一胎送1000萬！少的中央補給你！"
+        }
+      ],
+      "content": "連結：https://www.ettoday.net/news/20260903/3231054.htm\n\n內文：\n國民黨台南市長參選人謝龍介1日下午2時，在24位國民黨、民眾黨議員參選人陪同下完成\n登記。當天，他也在YouTube直播聊政見，推出「你生孩子，我供房子」婚育宅方案，生1\n胎可提供2房25坪、生2胎3房35坪、生3胎45坪，房價則喊出「一坪15萬」，而且不用準備\n自備款，由政府擔保貸款。\n\n謝龍介在直播中指出，自己若當選台南市長，將推動「馬上辦、馬上服務」中心，效法前\n台南市長蘇南成過去的服務模式；在育兒政策部分，則提出0至6歲健保免費、0至3歲尿布\n免費，另外針對6至18歲再加碼2500元，希望減輕家庭長期養育孩子的負擔。\n\n在居住政策部分，謝龍介進一步拋出「你生孩子，我供你房子」構想，明確表示，「你生\n一胎孩子，我供你2房的25坪；你生兩胎孩子，我供你3房的35坪；你生三胎孩子，我供你\n4房的45坪。」把房屋坪數直接和生育胎數掛鉤。\n\n至於價格，謝龍介更直接喊出「一坪15萬！一坪15萬！」並強調購屋者不需要準備自備款\n，「你不用自備款，就銀行貸款，是政府保證擔保，所以你可以安心。」還保證房子會蓋\n得很漂亮，會注意採光要好、棟距要夠等等。\n\n謝龍介說，換句話說，如果市民生一胎，他就先補助3萬、行政院補助10萬，若他選上，\n明年開始，一胎就能拿到13萬補助款，第二胎則是15萬，每個月還能塊5千塊，如果還不\n生，他只好加碼「你生孩子、我供房子」。\n\n心得：\n選舉前候選人開始端出牛肉\n台南市長候選人謝龍介推出你生孩子，我供你房子\n台南人會更願意生孩子嗎?\n或是大家會想搬去台南嗎?\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.228.201.175 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788440324.A.550.html"
+    },
+    {
+      "board": "home-sale",
+      "title": "[新聞] 烏克蘭三寶媽看「台灣房價」拋1問 網：",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788401648.A.419.html",
+      "author": "rhinfly",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 32,
+          "comment_count": 80,
+          "push_n": 38,
+          "boo_n": 6
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 32,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "jl40",
+          "content": "現在不就在Debug了"
+        },
+        {
+          "type": "推",
+          "user": "jinso7410",
+          "content": "有挑屎區+老破嗎"
+        },
+        {
+          "type": "推",
+          "user": "panzerbug",
+          "content": "他是拿烏克蘭的大小看台灣，台南買到3千萬，豪宅"
+        },
+        {
+          "type": "推",
+          "user": "blargelp",
+          "content": "所以連沒地緣關係的外國人 想要的還是中高總價品 難怪貴"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "因為台灣人很有錢"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "不過他看哪一區啊？台南透天很多啊"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "https://i.mopix.cc/SXRMat.jpg"
+        },
+        {
+          "type": "推",
+          "user": "flexin",
+          "content": "講幹話 一家五口 台南要買到3000?"
+        },
+        {
+          "type": "推",
+          "user": "panzerbug",
+          "content": "南部這一陣子都在跌，然後有一群持續在哭房價漲不停XD"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "https://i.mopix.cc/v8x0IM.jpg"
+        },
+        {
+          "type": "推",
+          "user": "F1239810",
+          "content": "有多少錢.. 就看多少錢的房子呀"
+        },
+        {
+          "type": "推",
+          "user": "F1239810",
+          "content": "我娶香港的，看台灣房價簡直是大特價。"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "又不是台北市，房子低消比較高，其他縣市低消很低阿"
+        },
+        {
+          "type": "推",
+          "user": "flexin",
+          "content": "水林在雲林"
+        },
+        {
+          "type": "推",
+          "user": "a96932000",
+          "content": "大概北不超過九份子，東不超過國道一號，南不超過中華"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "就跟嘉義市人不想離開東區一樣，人家嘉義縣太保自己搞科"
+        },
+        {
+          "type": "推",
+          "user": "kenclyde",
+          "content": "挑精華區或是透天當然很貴"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "透天不貴好嗎，新大樓比透天還貴"
+        },
+        {
+          "type": "推",
+          "user": "panzerbug",
+          "content": "我猜他是看亞太對面那堆透天吧，差不多3千"
+        },
+        {
+          "type": "推",
+          "user": "panzerbug",
+          "content": "烏克蘭就算戰前的GDP也很差，會抱怨台灣房價也是很正"
+        }
+      ],
+      "content": "作者: thelittleone (風真いろは大好き♡♥) 看板: Gossiping\n標題: [新聞] 烏克蘭三寶媽看「台灣房價」拋1問 網：\n時間: Thu Sep  3 08:26:39 2026\n\n烏克蘭三寶媽看「台灣房價」拋1問 網：外國人發現巨大bug\n\n中時新聞網 吳長諭\n\n台灣房價逐年維持上升趨勢，讓不少想買房的年輕人望之卻步，住在台南的烏克蘭三寶媽「\n娜姐」近日分享觀察，不解台灣房價為什麼這麼誇張，就算看中心儀的郊區房，房價也上看\n3000萬，引起眾人熱議。\n\n烏克蘭三寶媽「娜姐」在Threads上發文表示，自己真的很喜歡台灣，不過至今難以理解為\n什麼台灣的房價可以這麼誇張？自己知道台北等大城市的房價很高，但自己住在台南近郊區\n，以一家五口、三個孩子的需求來看，適合的房子也可能要超過3000萬台幣，好奇「台灣一\n般家庭到底是怎麼買房的？擁有自己的房子就是一件很難的事情？」\n\n貼文引起熱議，不少人直言台灣房價確實高，「當外國人發現台灣的巨大bug」、「台灣房\n地產市場是非常病態的，可能要靠各位歐美裔的朋友出來呼籲政府面對了」、「台灣什麼都\n很好，唯獨房子根本沒人買得起這一點，歐洲大勝，在台灣根本連想都不會想，除非家裡長\n輩能幫忙」、「台灣房價香港化，越來越貴、越來越小」。\n\n也有人歸咎於政府沒作為，「租房子、活在當下，因為台灣政府到財團，每一層都要油水，\n層層剝削人民，台灣已經不是過去台灣的樣子了」、「因為本來有人的政見是要蓋13萬戶社\n宅，結果一選上雙手一攤就裝死說不蓋，更扯的是再弄一個新青安2.0、3.0直接把房價拱上\n天」、「台灣人自己也想不透為什麼房價這麼貴，怪執政黨的話又會被出征，只能怪自己了\n」。\n\nhttps://www.chinatimes.com/realtimenews/20260901005199-260405\n\n台灣的bug誰造成的大家都知道\n\n--\nhttps://i.imgur.com/edDklnN.gif\n\n烏克蘭的房子沒被俄軍炸掉?\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.70.176.71 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/Gossiping/M.1788395201.A.C7E.html\n\n※ 轉錄者: rhinfly (125.230.142.223 臺灣), 09/03/2026 10:14:07\n※ 編輯: rhinfly (125.230.142.223 臺灣), 09/03/2026 10:14:30\n※ 編輯: rhinfly (125.230.142.223 臺灣), 09/03/2026 10:14:55\n※ rhinfly:轉錄至看板 Tainan                                       09/03 16:25"
+    },
+    {
+      "board": "home-sale",
+      "title": "[閒聊] 社宅電費太貴啦：（",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788493947.A.3F5.html",
+      "author": "blargelp",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 27,
+          "comment_count": 58,
+          "push_n": 28,
+          "boo_n": 1
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 27,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "lonelysin",
+          "content": "公電都繳不起 還整天肖想住新房   可憐哪！"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "集合住宅公電不就差不多是這樣？"
+        },
+        {
+          "type": "推",
+          "user": "kcy05785",
+          "content": "窮仔沒救"
+        },
+        {
+          "type": "推",
+          "user": "CharleneTsai",
+          "content": "所以政府現在不蓋了 直接改包租代管才是正途"
+        },
+        {
+          "type": "推",
+          "user": "alfi2016",
+          "content": "租透天就好光管理費公共用電費用就省很多"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "看到公電嚇到=>去主張要節約用電（lobby看溫度開冷"
+        },
+        {
+          "type": "推",
+          "user": "wowowowow",
+          "content": "社宅真是天才制度，花納稅人的錢讓少數人佔有"
+        },
+        {
+          "type": "推",
+          "user": "kcy05785",
+          "content": "昨天吹捧社宅會打租金的可以出來打球囉"
+        },
+        {
+          "type": "推",
+          "user": "flamer",
+          "content": "這還好吧"
+        },
+        {
+          "type": "推",
+          "user": "OBTea",
+          "content": "現在新建案公電兩個月破千很正常"
+        },
+        {
+          "type": "推",
+          "user": "yousking",
+          "content": "我家社區有游泳池，門廳除深夜全天冷氣也沒這麼高"
+        },
+        {
+          "type": "推",
+          "user": "yousking",
+          "content": "https://i.meee.com.tw/GQ88Cdd.jpg"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "133 14x公電是點蠟燭不然就是管委會出了"
+        },
+        {
+          "type": "推",
+          "user": "yousking",
+          "content": "大公確實管委會付，所以，一個正常良好的管委會有多重要"
+        },
+        {
+          "type": "推",
+          "user": "HiuAnOP",
+          "content": "社宅根本笑話-.-"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "的確，管委會沒錢就會從加管理費這方面著手，實際上"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "這分攤戶數很少嗎？"
+        },
+        {
+          "type": "推",
+          "user": "jonson",
+          "content": "別拿特例當通案，社宅大部分鄰居口袋都比一般住宅深多了"
+        },
+        {
+          "type": "推",
+          "user": "TWeng",
+          "content": "窮鬼"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "囧生說得太對了，所以審核資格要從祖宗十八代可以"
+        }
+      ],
+      "content": "D卡看到的\nhttps://i.imgur.com/8PuPvl0.jpeg\n\n早就說符合社宅資格的窮人，\n缺的不是免費升級新房，而是絕對價格便宜的租金。\n\n啊社宅條件能符合的話，就是一個錢斤斤計較的階層，看他自己電費才300就知道真的很省\n\n打七折給人家住新房，\n結果要付公共電費、管理費\n\n硬把這個階層，抬到去消費不屬於他的消費。\n\n而且你猜猜他住完三年六年，\n到期後，還回得去要自己追垃圾車的老房嗎？\n-----\nSent from JPTT on my iPhone\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.216.52.245 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788493947.A.3F5.html\n※ 編輯: blargelp (49.216.52.245 臺灣), 09/04/2026 11:55:34"
+    },
+    {
+      "board": "home-sale",
+      "title": "[閒聊] 這算居住正義建案嗎？",
+      "url": "https://www.ptt.cc/bbs/home-sale/M.1788487807.A.6E2.html",
+      "author": "licklabium",
+      "snapshots": [
+        {
+          "time": "04:53",
+          "push_count": 23,
+          "comment_count": 41,
+          "push_n": 24,
+          "boo_n": 1
+        }
+      ],
+      "push_count_growth": 0,
+      "latest_push_count": 23,
+      "top_comments": [
+        {
+          "type": "推",
+          "user": "abyssa1",
+          "content": "地點不正義 放到台北市大安區才是我要的正義"
+        },
+        {
+          "type": "推",
+          "user": "abyssa1",
+          "content": "這應該是農建地之類的吧 看起來不是都市計劃區"
+        },
+        {
+          "type": "推",
+          "user": "kimula01",
+          "content": "退休單身電境男的化外之地"
+        },
+        {
+          "type": "推",
+          "user": "jaricho",
+          "content": "不錯啊 北部耶… 比南部好多了"
+        },
+        {
+          "type": "推",
+          "user": "childeviler2",
+          "content": "不是在苗栗嗎？那邊診所，吃飯店家多嗎"
+        },
+        {
+          "type": "推",
+          "user": "F1239810",
+          "content": "這房子怎麼長那樣?..該不會是什麼模組化做出來的吧?"
+        },
+        {
+          "type": "推",
+          "user": "yousking",
+          "content": "為什麼外觀像貨櫃屋..."
+        },
+        {
+          "type": "推",
+          "user": "jinso7410",
+          "content": "沒蛋黃"
+        },
+        {
+          "type": "推",
+          "user": "quiet93",
+          "content": "就說台灣房子不貴"
+        },
+        {
+          "type": "推",
+          "user": "alfi2016",
+          "content": "房屋造價10萬/坪 營造仔出來說說"
+        },
+        {
+          "type": "推",
+          "user": "blackbox",
+          "content": "AI圖，連建案外觀都不給"
+        },
+        {
+          "type": "推",
+          "user": "chigo520",
+          "content": "不錯啊"
+        },
+        {
+          "type": "推",
+          "user": "kimula01",
+          "content": "這完整建案名稱是什麼 怎麼GOOGLE是別的名子"
+        },
+        {
+          "type": "推",
+          "user": "blargelp",
+          "content": "王藍田食雞子，這透天一樓庭院可以養雞"
+        },
+        {
+          "type": "推",
+          "user": "OforU",
+          "content": "營建成本仔："
+        },
+        {
+          "type": "推",
+          "user": "kumaliu1988",
+          "content": "你要不要先Google 藍田國小"
+        },
+        {
+          "type": "推",
+          "user": "flexin",
+          "content": "是不是正義因人而異"
+        },
+        {
+          "type": "推",
+          "user": "blargelp",
+          "content": "https://i.imgur.com/aupPpId.jpeg"
+        },
+        {
+          "type": "推",
+          "user": "lonelysin",
+          "content": "57屌打 還有捷運"
+        },
+        {
+          "type": "推",
+          "user": "jl40",
+          "content": "買塊農地1000坪 100坪農舍(50坪組合屋+ 50坪4-5車位) 900坪"
+        }
+      ],
+      "content": "https://i.meee.com.tw/f1rYIHi.jpg\n\n剛剛我臉書跑出來的廣告\n全新，大地坪，透天，雙車位，近學校旁，而且不到五百萬\n\n這樣算不算符合居住正義的建案呢？\n\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 49.216.28.179 (臺灣)\n※ 文章網址: https://www.ptt.cc/bbs/home-sale/M.1788487807.A.6E2.html\nhttps://i.meee.com.tw/iM6Wm0C.jpg\n我也不知道，我在這裡看到的，跳出我的臉書，我找時間實際去參觀看看\n※ 編輯: licklabium (49.216.28.179 臺灣), 09/04/2026 11:11:35"
     }
   ]
 }
